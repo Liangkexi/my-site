@@ -20,4 +20,7 @@ npm-debug.log*
 # Editor
 .vscode/
 .idea/
-node_modules
+
+# Raw/original video files (too large for GitHub)
+public/video/hero-video.mp4
+public/video/hero_mobile.mp4
