@@ -21,6 +21,9 @@ npm-debug.log*
 .vscode/
 .idea/
 
+# Generated at build time — do not commit
+lib/content-data.json
+
 # Raw/original video files (too large for GitHub)
 public/video/hero-video.mp4
 public/video/hero_mobile.mp4
