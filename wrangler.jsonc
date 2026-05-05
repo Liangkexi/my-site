@@ -21,5 +21,9 @@
   },
   "observability": {
     "enabled": true
-  }
+  },
+  "routes": [
+    { "pattern": "liangkx.com", "custom_domain": true },
+    { "pattern": "www.liangkx.com", "custom_domain": true }
+  ]
 }
