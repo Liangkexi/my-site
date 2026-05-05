@@ -1089,3 +1089,103 @@ main {
     text-align: left;
   }
 }
+
+/* ── GitBook-style Project layout ────────────────────────── */
+.doc-wrap {
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.doc-header {
+  /* full-width above the two columns */
+}
+
+.doc-cover {
+  height: 260px;
+  border-radius: 14px;
+  margin: 8px 0 40px;
+  background: center / cover no-repeat;
+  border: 1px solid var(--border);
+}
+
+/* Two-column grid */
+.doc-layout {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+/* ── TOC column ── */
+.doc-toc-col {
+  position: sticky;
+  top: 96px;
+}
+
+.toc {
+  padding: 0;
+}
+
+.toc__title {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--fg-sub);
+  margin-bottom: 10px;
+  padding: 0 8px;
+}
+
+.toc__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.toc__link {
+  display: block;
+  padding: 5px 8px;
+  border-radius: 7px;
+  font-size: 13px;
+  color: var(--fg-m);
+  text-decoration: none;
+  line-height: 1.4;
+  transition: background 0.14s ease, color 0.14s ease;
+}
+
+.toc__link:hover {
+  background: color-mix(in srgb, var(--bg-s) 70%, transparent);
+  color: var(--fg);
+}
+
+.toc__link[data-active="true"] {
+  color: var(--accent-hex);
+  background: color-mix(in srgb, var(--accent-hex) 9%, transparent);
+  font-weight: 600;
+}
+
+.toc__item[data-level="3"] .toc__link {
+  padding-left: 20px;
+  font-size: 12.5px;
+}
+
+/* ── Content column ── */
+.doc-content-col {
+  min-width: 0; /* prevent overflow */
+}
+
+/* Mobile: collapse to single column */
+@media (max-width: 768px) {
+  .doc-layout {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .doc-toc-col {
+    position: static;
+    border-bottom: 1px solid var(--sep);
+    padding-bottom: 20px;
+    margin-bottom: 32px;
+  }
+}
