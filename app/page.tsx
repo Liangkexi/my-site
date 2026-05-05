@@ -3,6 +3,8 @@ import HeroSection from "@/components/HeroSection";
 import Link from "next/link";
 import HomeClient from "./HomeClient";
 
+export const dynamic = "force-static";
+
 export default function HomePage() {
   const highlights = getHighlights();
   const latestPosts = getLatestPosts();

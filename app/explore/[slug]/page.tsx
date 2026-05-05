@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 import { getContentItem, getContentByType, getAllExploreItems } from "@/lib/content";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
