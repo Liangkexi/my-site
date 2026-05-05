@@ -24,6 +24,6 @@
   },
   "routes": [
     { "pattern": "liangkx.com", "custom_domain": true },
-    { "pattern": "www.liangkx.com", "custom_domain": true }
+    { "pattern": "www.liangkx.com", "custom_domain": true, "override_existing_dns_record": true }
   ]
 }
