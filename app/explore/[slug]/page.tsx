@@ -1,5 +1,4 @@
 export const dynamic = "force-static";
-export const dynamicParams = false;
 
 import { getContentItem, getContentByType, getAllExploreItems } from "@/lib/content";
 import { extractHeadings } from "@/lib/headings";

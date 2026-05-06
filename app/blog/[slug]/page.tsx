@@ -1,5 +1,4 @@
 export const dynamic = "force-static";
-export const dynamicParams = false;
 
 import { getContentItem, getAllBlogPosts } from "@/lib/content";
 import Link from "next/link";
