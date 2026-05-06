@@ -1,8 +1,8 @@
 export const dynamic = "force-static";
+export const dynamicParams = false;
 
 import { getContentItem, getContentByType, getAllExploreItems } from "@/lib/content";
 import { extractHeadings } from "@/lib/headings";
-import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import LightboxGallery from "@/components/LightboxGallery";
 import TableOfContents from "@/components/TableOfContents";
@@ -15,18 +15,6 @@ export async function generateStaticParams() {
   return types.flatMap((type) =>
     getContentByType(type).map((item) => ({ slug: item.slug }))
   );
-}
-
-/** Custom MDX heading components that inject id= for TOC anchor links */
-function makeHeadings(toId: (t: string) => string) {
-  const H = (level: 2 | 3) =>
-    function Heading({ children }: { children?: React.ReactNode }) {
-      const text = String(children ?? "");
-      const id = toId(text);
-      if (level === 2) return <h2 id={id}>{children}</h2>;
-      return <h3 id={id}>{children}</h3>;
-    };
-  return { h2: H(2), h3: H(3) };
 }
 
 export default async function ExploreDetailPage({ params }: { params: Promise<{ slug: string }> }) {
@@ -44,7 +32,7 @@ export default async function ExploreDetailPage({ params }: { params: Promise<{ 
   const isGallery = item.type === "life" && item.photos && item.photos.length > 0;
   const isProject = item.type === "projects";
 
-  // Extract TOC headings for projects
+  // Extract TOC headings for projects (from raw markdown — no MDX runtime needed)
   const headings = isProject ? extractHeadings(item.content) : [];
 
   // Prev / Next
@@ -52,10 +40,6 @@ export default async function ExploreDetailPage({ params }: { params: Promise<{ 
   const idx = all.findIndex((i) => i.slug === decodedSlug);
   const prev = idx > 0              ? all[idx - 1] : null;
   const next = idx < all.length - 1 ? all[idx + 1] : null;
-
-  // MDX heading components with auto-generated IDs
-  const { toHeadingId } = await import("@/lib/headings");
-  const mdxComponents = isProject ? makeHeadings(toHeadingId) : {};
 
   // ── Header section (shared) ──
   const header = (
@@ -128,10 +112,12 @@ export default async function ExploreDetailPage({ params }: { params: Promise<{ 
 
           {/* Right: article content + prev/next */}
           <div className="doc-content-col">
-            {item.content.trim() && (
-              <article className="prose" style={{ paddingBottom: 56 }}>
-                <MDXRemote source={item.content} components={mdxComponents} />
-              </article>
+            {item.html && (
+              <article
+                className="prose"
+                style={{ paddingBottom: 56 }}
+                dangerouslySetInnerHTML={{ __html: item.html }}
+              />
             )}
 
             <nav className="post-nav">
@@ -175,10 +161,12 @@ export default async function ExploreDetailPage({ params }: { params: Promise<{ 
         </div>
       )}
 
-      {item.content.trim() && (
-        <article className="prose" style={{ paddingBottom: 56 }}>
-          <MDXRemote source={item.content} />
-        </article>
+      {item.html && (
+        <article
+          className="prose"
+          style={{ paddingBottom: 56 }}
+          dangerouslySetInnerHTML={{ __html: item.html }}
+        />
       )}
 
       <nav className="post-nav">

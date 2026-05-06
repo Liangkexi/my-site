@@ -26,6 +26,8 @@ export interface ContentItem extends FrontMatter {
   slug: string;
   type: ContentType;
   content: string;
+  /** Pre-compiled HTML. Present when loaded from content-data.json. */
+  html?: string;
 }
 
 // ── Load data ──────────────────────────────────────────────────────────────
@@ -41,9 +43,22 @@ function loadData(): Record<ContentType, ContentItem[]> {
   }
 
   try {
-    const fs   = require("fs")   as typeof import("fs");
-    const path = require("path") as typeof import("path");
+    const fs     = require("fs")     as typeof import("fs");
+    const path   = require("path")   as typeof import("path");
     const matter = require("gray-matter") as typeof import("gray-matter");
+    // marked is safe on all runtimes (pure JS, no Node APIs)
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const { marked, Renderer } = require("marked") as typeof import("marked");
+
+    // Replicate the same heading renderer used in build-content.mjs
+    const { toHeadingId } = require("./headings") as typeof import("./headings");
+    const renderer = new Renderer();
+    (renderer as unknown as Record<string, unknown>).heading = function ({ text, depth }: { text: string; depth: number }) {
+      const plainText = text.replace(/<[^>]+>/g, "");
+      const id = toHeadingId(plainText);
+      return `<h${depth} id="${id}">${text}</h${depth}>\n`;
+    };
+    marked.use({ renderer });
 
     const contentDir = path.join(process.cwd(), "content");
     const result: Record<ContentType, ContentItem[]> = {
@@ -59,7 +74,8 @@ function loadData(): Record<ContentType, ContentItem[]> {
         .map((file: string) => {
           const raw = fs.readFileSync(path.join(dir, file), "utf-8");
           const { data, content } = matter(raw);
-          return { ...data, slug: file.replace(".md", ""), type, content } as ContentItem;
+          const html = marked.parse(content) as string;
+          return { ...data, slug: file.replace(".md", ""), type, content, html } as ContentItem;
         })
         .filter((item: ContentItem) => item.published !== false)
         .sort((a: ContentItem, b: ContentItem) => (a.date < b.date ? 1 : -1));

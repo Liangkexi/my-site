@@ -1,7 +1,7 @@
 export const dynamic = "force-static";
+export const dynamicParams = false;
 
 import { getContentItem, getAllBlogPosts } from "@/lib/content";
-import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
@@ -71,9 +71,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       )}
 
       {/* Content */}
-      <article className="prose" style={{ paddingBottom: 56 }}>
-        <MDXRemote source={post.content} />
-      </article>
+      <article
+        className="prose"
+        style={{ paddingBottom: 56 }}
+        dangerouslySetInnerHTML={{ __html: post.html ?? "" }}
+      />
 
       {/* Prev / Next navigation */}
       <nav className="post-nav">
