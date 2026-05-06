@@ -8,7 +8,7 @@ export default function PostList({ posts }: { posts: ContentItem[] }) {
       {posts.map((post) => (
         <Link
           key={post.slug}
-          href={`/blog/${post.slug}`}
+          href={`/blog/${encodeURIComponent(post.slug)}`}
           style={{ textDecoration: "none" }}
         >
           <div

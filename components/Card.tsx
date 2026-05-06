@@ -17,7 +17,7 @@ const typeLabel: Record<string, string> = {
 };
 
 export default function Card({ item }: { item: ContentItem }) {
-  const href = `/${typeToPath[item.type]}/${item.slug}`;
+  const href = `/${typeToPath[item.type]}/${encodeURIComponent(item.slug)}`;
 
   return (
     <Link href={href} style={{ textDecoration: "none" }}>
