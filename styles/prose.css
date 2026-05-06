@@ -1,0 +1,110 @@
+/* prose.css — Markdown rendered styles */
+
+.prose {
+  color: var(--fg);
+  font-size: 16.5px;
+  line-height: 1.75;
+  max-width: 680px;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  color: var(--fg);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 2rem 0 0.75rem;
+}
+
+.prose h1 { font-size: 2.2rem; }
+.prose h2 { font-size: 1.54rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--sep); }
+.prose h3 { font-size: 1.265rem; }
+
+.prose p {
+  color: var(--fg-m);
+  margin-bottom: 1.25rem;
+}
+
+.prose a {
+  color: var(--accent-hex);
+  text-decoration: underline;
+  text-decoration-color: var(--accent-s);
+  text-underline-offset: 3px;
+}
+.prose a:hover { text-decoration-color: var(--accent-hex); }
+
+.prose strong { color: var(--fg); font-weight: 600; }
+
+.prose ul,
+.prose ol {
+  color: var(--fg-m);
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+.prose li { margin-bottom: 0.4rem; }
+
+.prose blockquote {
+  border-left: 3px solid var(--accent-hex);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  color: var(--fg-sub);
+  font-style: italic;
+}
+
+.prose code {
+  background: var(--bg-s2);
+  color: var(--accent-l-hex);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9625em;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+.prose pre {
+  background: var(--bg-s);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  margin-bottom: 1.25rem;
+}
+.prose pre code {
+  background: none;
+  padding: 0;
+  color: var(--fg-m);
+}
+
+.prose img {
+  width: 100%;
+  border-radius: 10px;
+  margin: 1.5rem 0;
+  border: 1px solid var(--border);
+  cursor: zoom-in;
+}
+
+.prose hr {
+  border: none;
+  border-top: 1px solid var(--sep);
+  margin: 2rem 0;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.25rem;
+  font-size: 15.4px;
+}
+.prose th {
+  background: var(--bg-s);
+  color: var(--fg);
+  font-weight: 600;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+.prose td {
+  color: var(--fg-m);
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--sep);
+}
