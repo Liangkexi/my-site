@@ -21,6 +21,14 @@ npm-debug.log*
 .vscode/
 .idea/
 
+# Claude Code worktrees
+.claude/worktrees/
+
+# Obsidian — exclude plugins, themes, and per-machine workspace state
+**/.obsidian/plugins/
+**/.obsidian/themes/
+**/.obsidian/workspace*.json
+
 # Generated at build time — do not commit
 lib/content-data.json
 
