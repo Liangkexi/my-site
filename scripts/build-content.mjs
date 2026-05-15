@@ -108,17 +108,19 @@ const calloutExtension = {
     const block = match[1];
     const lines = block.replace(/\n$/, "").split("\n");
     const firstStripped = lines[0].replace(/^>\s?/, "");
-    const header = /^\[!([A-Za-z]+)\][+-]?\s*(.*)$/.exec(firstStripped);
+    const header = /^\[!([A-Za-z]+)\]([+-]?)\s*(.*)$/.exec(firstStripped);
     if (!header) return;
     const rawType = header[1].toLowerCase();
     const type = CALLOUT_ALIASES[rawType] || "note";
-    const customTitle = header[2].trim();
+    const foldMarker = header[2]; // "", "+", or "-"
+    const customTitle = header[3].trim();
     const title = customTitle || (rawType[0].toUpperCase() + rawType.slice(1));
     const body = lines.slice(1).map(l => l.replace(/^>\s?/, "")).join("\n");
     const token = {
       type: "callout",
       raw: match[0],
       calloutType: type,
+      foldMarker,
       title,
       tokens: [],
     };
@@ -128,9 +130,18 @@ const calloutExtension = {
   renderer(token) {
     const body = this.parser.parse(token.tokens);
     const icon = CALLOUT_ICONS[token.calloutType] || CALLOUT_ICONS.note;
+    const foldable = token.foldMarker === "+" || token.foldMarker === "-";
+    const openAttr = token.foldMarker === "+" ? " open" : "";
+    const titleInner = `<span class="callout-icon" aria-hidden="true">${icon}</span>`
+      + `<span class="callout-title-text">${token.title}</span>`
+      + (foldable ? `<span class="callout-fold" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></span>` : "");
+    if (foldable) {
+      return `<details class="callout callout-${token.calloutType} is-collapsible"${openAttr}>`
+        + `<summary class="callout-title">${titleInner}</summary>`
+        + `<div class="callout-content">${body}</div></details>\n`;
+    }
     return `<div class="callout callout-${token.calloutType}">`
-      + `<div class="callout-title"><span class="callout-icon" aria-hidden="true">${icon}</span>`
-      + `<span class="callout-title-text">${token.title}</span></div>`
+      + `<div class="callout-title">${titleInner}</div>`
       + `<div class="callout-content">${body}</div></div>\n`;
   },
 };
