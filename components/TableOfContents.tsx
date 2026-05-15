@@ -8,7 +8,13 @@ export interface TocHeading {
   id: string;
 }
 
-export default function TableOfContents({ headings }: { headings: TocHeading[] }) {
+export default function TableOfContents({
+  headings,
+  onNavigate,
+}: {
+  headings: TocHeading[];
+  onNavigate?: () => void;
+}) {
   const [activeId, setActiveId] = useState<string>("");
 
   useEffect(() => {
@@ -52,6 +58,7 @@ export default function TableOfContents({ headings }: { headings: TocHeading[] }
                   const y = el.getBoundingClientRect().top + window.scrollY - 88;
                   window.scrollTo({ top: y, behavior: "smooth" });
                 }
+                onNavigate?.();
               }}
             >
               {text}

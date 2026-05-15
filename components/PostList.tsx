@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import type { ContentItem } from "@/lib/content";
+import { formatDate } from "@/lib/formatDate";
 
 export default function PostList({ posts }: { posts: ContentItem[] }) {
   return (
@@ -63,7 +64,7 @@ export default function PostList({ posts }: { posts: ContentItem[] }) {
               }}
             >
               <span style={{ fontSize: 13.2, color: "var(--fg-sub)", whiteSpace: "nowrap" }}>
-                {post.date?.slice(0, 10)}
+                {formatDate(post.date)}
               </span>
             </div>
           </div>

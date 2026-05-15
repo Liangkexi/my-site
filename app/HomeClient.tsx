@@ -5,6 +5,7 @@ import type { ContentItem } from "@/lib/content";
 import Card from "@/components/Card";
 import Reveal from "@/components/Reveal";
 import useProgressiveList from "@/components/useProgressiveList";
+import { formatDate } from "@/lib/formatDate";
 
 export default function HomeClient({
   highlights,
@@ -108,7 +109,7 @@ export default function HomeClient({
                       }}
                     >
                       <span style={{ fontSize: 13.2, color: "var(--fg-sub)", whiteSpace: "nowrap" }}>
-                        {post.date?.slice(0, 10)}
+                        {formatDate(post.date)}
                       </span>
                     </div>
                   </div>

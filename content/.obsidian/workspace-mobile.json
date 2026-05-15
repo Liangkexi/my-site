@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9eb6f167b0d8e9e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ddf61e05a8ff70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92cb1b99d46e1d73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e654ad1a7d8416c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cb3fb0ec3f0ce232",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "9771562b81b6c7c8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "df76c5fd3168aa9b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f949eb59ad6241b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4436d8875d58f2e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "112fbd472eb13750",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "test2/标题.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f8a04f2537352525",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "test2/标题.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "dd8199a6b59266bc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "test2/标题.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "92cb1b99d46e1d73",
+  "lastOpenFiles": [
+    "test2/未命名/标题.md",
+    "未命名文件夹/LiangKX/test1/未命名.canvas",
+    "未命名文件夹/LiangKX/test1/test1-1/未命名 1.md",
+    "未命名文件夹/LiangKX/test1/test1-1/未命名.md",
+    "test2/未命名/2025-03-05.md",
+    "Untitled.md",
+    "未命名文件夹/LiangKX/未命名.md",
+    "test2/未命名.md",
+    "未命名文件夹/LiangKX/test1/Welcome.md",
+    "未命名文件夹/LiangKX/test1/create a link.md",
+    "未命名文件夹/LiangKX/test1/Pasted image 20240303165439.png",
+    "test2/标题.md",
+    "未命名文件夹/LiangKX/未命名.canvas",
+    "未命名文件夹/LiangKX/test1/未命名 2.md"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "conv-1777135261829-1bifyigw9",
+  "providerId": "claude",
+  "title": "你在吗",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777135261831,
+  "updatedAt": 1778591345593,
+  "lastResponseAt": 1777188155017,
+  "sessionId": "7f9483a0-0df9-4931-bd35-8e4c2a319fd8",
+  "providerState": {
+    "providerSessionId": "7f9483a0-0df9-4931-bd35-8e4c2a319fd8",
+    "previousProviderSessionIds": [
+      "f5cce76a-7e85-4aa7-86a2-e232572a60ae",
+      "3a406f81-417c-4029-b3e7-1a3fc187a1ab"
+    ]
+  },
+  "usage": {
+    "model": "kimi-k2.6",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

@@ -1,39 +1,64 @@
 /**
- * Pre-build script: reads all markdown files, compiles them to HTML,
- * and writes content-data.json.
- * Run before `next build` so Cloudflare Workers never needs fs or
- * dynamic MDX evaluation at runtime.
+ * Pre-build script: walks content/ (with 3-level support), compiles
+ * markdown → HTML, writes lib/content-data.json.
+ *
+ * Structure:
+ *   content/projects/foo.md                       → single file
+ *   content/projects/bar/index.md                 → multi-page project root
+ *   content/projects/bar/01-chapter.md            → chapter
+ *   content/projects/bar/00-section/01-page.md    → grouped chapter (1 level deep)
  */
 import fs   from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-
-// CJS packages via dynamic require
 import { createRequire } from "module";
+
 const require = createRequire(import.meta.url);
-const matter = require("gray-matter");
+const matter  = require("gray-matter");
 const { marked, Renderer } = require("marked");
 
 const __dirname  = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(__dirname, "../content");
 const outputFile = path.join(__dirname, "../lib/content-data.json");
 
-// ── Heading ID helper (must match lib/headings.ts toHeadingId) ──────────────
+// ── Heading ID (must match lib/headings.ts) ──
 function toHeadingId(text) {
-  return text
-    .trim()
-    .toLowerCase()
+  return text.trim().toLowerCase()
     .replace(/\s+/g, "-")
-    .replace(/[^\w一-鿿-]/g, "")  // keep ASCII word chars + CJK + hyphens
+    .replace(/[^\w一-鿿-]/g, "")
     .replace(/^-+|-+$/g, "");
 }
 
-// ── Custom marked renderer: inject id= on headings ──────────────────────────
 const renderer = new Renderer();
-renderer.heading = function({ text, depth }) {
-  const plainText = text.replace(/<[^>]+>/g, ""); // strip inline HTML
-  const id = toHeadingId(plainText);
-  return `<h${depth} id="${id}">${text}</h${depth}>\n`;
+function normalizeProjectHref(href) {
+  if (href.startsWith("https://liangkx.com/explore/") && !href.startsWith("https://liangkx.com/explore/跨境电商/")) {
+    return href.replace("https://liangkx.com/explore/", "https://liangkx.com/explore/跨境电商/");
+  }
+  if (href.startsWith("/explore/") && !href.startsWith("/explore/跨境电商/")) {
+    return href.replace("/explore/", "/explore/跨境电商/");
+  }
+  return href;
+}
+
+function escapeAttr(value) {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+renderer.link = function ({ href, title, text, tokens }) {
+  const normalizedHref = normalizeProjectHref(href);
+  const html = tokens && this.parser ? this.parser.parseInline(tokens) : text;
+  const titleAttr = title ? ` title="${escapeAttr(title)}"` : "";
+  return `<a href="${escapeAttr(encodeURI(normalizedHref))}"${titleAttr}>${html}</a>`;
+};
+
+renderer.heading = function ({ text, depth, tokens }) {
+  const html = tokens && this.parser ? this.parser.parseInline(tokens) : text;
+  const id = toHeadingId(html.replace(/<[^>]+>/g, ""));
+  return `<h${depth} id="${id}">${html}</h${depth}>\n`;
 };
 marked.use({ renderer });
 
@@ -111,25 +136,101 @@ const calloutExtension = {
 };
 marked.use({ extensions: [calloutExtension] });
 
-// ── Build ────────────────────────────────────────────────────────────────────
+const META_FILES = new Set(["README.md", "CLAUDE.md", "readme.md", "claude.md"]);
+
+function normalizeDate(value) {
+  if (value instanceof Date) return value.toISOString().slice(0, 10);
+  if (typeof value === "string") return value.slice(0, 10);
+  return "";
+}
+
+function makeItem(filePath, slug, type, extra = {}) {
+  const raw = fs.readFileSync(filePath, "utf-8");
+  const { data, content } = matter(raw);
+  const html = marked.parse(content);
+  // Fallback title from filename (strip extension + numeric prefix)
+  const fallbackTitle = path.basename(filePath, ".md").replace(/^\d+[-_]?\s*/, "");
+  return {
+    ...data,
+    title: data.title ?? fallbackTitle,
+    date: normalizeDate(data.date),
+    slug, type, content, html, ...extra,
+  };
+}
+
+/** Walk a project folder, grouping by first-level section directories. */
+function walkProject(dir, projectSlug, type, currentSection = null, nestedSlug = "") {
+  const out = [];
+  const entries = fs.readdirSync(dir).sort();
+
+  for (const entry of entries) {
+    if (entry.startsWith(".") || entry.startsWith("_")) continue;
+    if (entry.toLowerCase() === "claude.md") continue;
+    if (!currentSection && entry.toLowerCase() === "readme.md") continue;
+    const entryPath = path.join(dir, entry);
+    const stat = fs.statSync(entryPath);
+
+    if (stat.isFile() && entry.endsWith(".md")) {
+      const isIndex = entry === "index.md" && !currentSection;
+      const chapterSlug = entry.replace(".md", "");
+      const pageSlug = nestedSlug ? `${nestedSlug}/${chapterSlug}` : chapterSlug;
+      const fullSlug = isIndex
+        ? projectSlug
+        : currentSection
+          ? `${projectSlug}/${currentSection.slug}/${pageSlug}`
+          : `${projectSlug}/${pageSlug}`;
+
+      const item = makeItem(entryPath, fullSlug, type, {
+        isIndex,
+        parentSlug: projectSlug,
+        ...(currentSection && {
+          sectionSlug: currentSection.slug,
+          sectionTitle: currentSection.title,
+        }),
+      });
+      if (isIndex || item.published !== false) out.push(item);
+    } else if (stat.isDirectory()) {
+      if (!currentSection) {
+        out.push(...walkProject(entryPath, projectSlug, type, {
+          slug: entry,
+          title: entry,
+        }));
+      } else {
+        const nextNestedSlug = nestedSlug ? `${nestedSlug}/${entry}` : entry;
+        out.push(...walkProject(entryPath, projectSlug, type, currentSection, nextNestedSlug));
+      }
+    }
+  }
+
+  return out;
+}
+
+// ── Build ──
 const TYPES = ["blog", "projects", "notes", "life"];
 const result = {};
 
 for (const type of TYPES) {
   const dir = path.join(contentDir, type);
-  if (!fs.existsSync(dir)) { result[type] = []; continue; }
+  result[type] = [];
+  if (!fs.existsSync(dir)) continue;
 
-  const files = fs.readdirSync(dir).filter(f => f.endsWith(".md"));
-  result[type] = files
-    .map(file => {
-      const raw  = fs.readFileSync(path.join(dir, file), "utf-8");
-      const { data, content } = matter(raw);
-      const html = marked.parse(content);          // compile markdown → HTML at build time
-      return { ...data, slug: file.replace(".md", ""), type, content, html };
-    })
-    .filter(item => item.published !== false)
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
+  const entries = fs.readdirSync(dir);
+  for (const entry of entries) {
+    if (entry.startsWith(".") || entry.startsWith("_")) continue;
+    const entryPath = path.join(dir, entry);
+    const stat = fs.statSync(entryPath);
+
+    if (stat.isFile() && entry.endsWith(".md")) {
+      const item = makeItem(entryPath, entry.replace(".md", ""), type);
+      if (item.published !== false) result[type].push(item);
+    } else if (stat.isDirectory()) {
+      result[type].push(...walkProject(entryPath, entry, type));
+    }
+  }
+
+  result[type].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
 fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf-8");
-console.log(`✓ content-data.json generated (${Object.values(result).flat().length} items)`);
+const total = Object.values(result).flat().length;
+console.log(`✓ content-data.json generated (${total} items)`);

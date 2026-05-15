@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import type { ContentItem } from "@/lib/content";
+import { formatDate } from "@/lib/formatDate";
 
 const typeToPath: Record<string, string> = {
   blog: "blog",
@@ -127,7 +128,7 @@ export default function Card({ item }: { item: ContentItem }) {
               }}
             >
               <span style={{ fontSize: 13.2, color: "var(--fg-sub)", whiteSpace: "nowrap" }}>
-                {item.date.slice(0, 10)}
+                {formatDate(item.date)}
               </span>
             </div>
           )}

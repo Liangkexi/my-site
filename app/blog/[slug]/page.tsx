@@ -1,6 +1,7 @@
 export const dynamic = "force-static";
 
 import { getContentItem, getAllBlogPosts } from "@/lib/content";
+import { formatDate } from "@/lib/formatDate";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
@@ -32,7 +33,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         </Link>
 
         <div style={{ fontSize: 13.2, color: "var(--fg-sub)", marginBottom: 10, display: "flex", gap: 8, alignItems: "center", flexWrap: "wrap" }}>
-          <span>{post.date?.slice(0, 10)}</span>
+          <span>{formatDate(post.date)}</span>
           {post.tags?.map((tag) => (
             <span
               key={tag}
