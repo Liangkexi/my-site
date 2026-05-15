@@ -997,6 +997,62 @@ main {
   border: 1px solid var(--sep);
 }
 
+/* ── Obsidian-style callouts ─────────────────────────────────────────── */
+.prose .callout {
+  --callout-color: 134, 142, 150;
+  margin: 1.5rem 0;
+  padding: 0.85rem 1rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid rgba(var(--callout-color), 0.28);
+  background: rgba(var(--callout-color), 0.08);
+  border-left: 3px solid rgb(var(--callout-color));
+}
+.prose .callout-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgb(var(--callout-color));
+  font-weight: 600;
+  font-size: 0.98em;
+  line-height: 1.4;
+}
+.prose .callout-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.05em;
+  height: 1.05em;
+  flex-shrink: 0;
+}
+.prose .callout-icon svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.prose .callout-content { margin-top: 0.5rem; }
+.prose .callout-content > :first-child { margin-top: 0; }
+.prose .callout-content > :last-child  { margin-bottom: 0; }
+.prose .callout-content p {
+  color: var(--fg-m);
+  margin-bottom: 0.6rem;
+}
+.prose .callout-content > p:last-child { margin-bottom: 0; }
+.prose .callout-content:empty { display: none; }
+
+.prose .callout-note     { --callout-color: 116, 137, 211; }
+.prose .callout-info     { --callout-color:  82, 156, 202; }
+.prose .callout-todo     { --callout-color:  82, 156, 202; }
+.prose .callout-tip      { --callout-color:  64, 175, 159; }
+.prose .callout-success  { --callout-color:  90, 169, 110; }
+.prose .callout-question { --callout-color: 198, 156,  60; }
+.prose .callout-warning  { --callout-color: 220, 154,  53; }
+.prose .callout-failure  { --callout-color: 211, 100, 100; }
+.prose .callout-danger   { --callout-color: 213,  87,  87; }
+.prose .callout-bug      { --callout-color: 213,  87,  87; }
+.prose .callout-example  { --callout-color: 158, 113, 207; }
+.prose .callout-quote    { --callout-color: 140, 148, 158; }
+.prose .callout-abstract { --callout-color:  77, 171, 184; }
+
 /* ── Post navigation (prev / next) ──────────────────────── */
 .post-nav {
   display: grid;
