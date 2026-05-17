@@ -76,6 +76,11 @@ function walkProject(dir, projectSlug, type, currentSection = null, nestedSlug =
           sectionTitle: currentSection.title,
         }),
       });
+      // For flat files with a 'part' frontmatter field, use it as section grouping
+      if (!isIndex && !currentSection && item.part) {
+        item.sectionSlug = item.part;
+        item.sectionTitle = item.part;
+      }
       if (isIndex || item.published !== false) out.push(item);
     } else if (stat.isDirectory()) {
       if (!currentSection) {
