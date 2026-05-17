@@ -41,13 +41,14 @@ function loadData(): Record<ContentType, ContentItem[]> {
   // not linger because lib/content-data.json is intentionally gitignored.
   if (process.env.NODE_ENV === "production") {
     try {
-      // Use a computed path so esbuild cannot statically bundle this JSON into
-      // the Cloudflare Worker (dynamic require is left as-is by esbuild).
-      // During `next build` (Node.js) this resolves normally via the filesystem.
-      // At Worker runtime the require fails → falls through to {} below, which
-      // is fine because all pages are force-static and already pre-rendered.
+      // Use a computed path so esbuild does NOT statically bundle this JSON.
+      // In the Cloudflare Worker the file lives at ./lib/content-data.json
+      // (relative to the handler) — this resolves correctly at runtime.
+      // During `next build` (Node.js) this path won't resolve (different cwd),
+      // so it falls through to the fs fallback below which reads markdown
+      // directly — that's fine for the SSG build phase.
       // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const p = "./content-data" + ".json";
+      const p = "./lib/content-data" + ".json";
       const json = require(p) as Record<ContentType, ContentItem[]>;
       return json;
     } catch { /* fall through */ }
