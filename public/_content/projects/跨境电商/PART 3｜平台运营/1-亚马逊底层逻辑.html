@@ -1,0 +1,195 @@
+<h1 id="亚马逊底层逻辑">亚马逊底层逻辑</h1>
+<blockquote>
+<p>&quot;Amazon 的本质不是商店，是<strong>一个用算法分配流量的双边市场</strong>。你不是在和消费者打交道——你是在和 A9 算法打交道。&quot;</p>
+</blockquote>
+<h2 id="a9-算法amazon-的quot大脑quot">A9 算法：Amazon 的&quot;大脑&quot;</h2>
+<p>A9 是 Amazon 的搜索排名算法，决定 <strong>谁的产品出现在搜索结果第几位</strong>。</p>
+<h3 id="a9-的核心目标">A9 的核心目标</h3>
+<blockquote>
+<p>最大化<strong>单位流量的 GMV</strong>（每次搜索产生的销售额）</p>
+</blockquote>
+<p>所以它把流量给：<strong>最可能成交的 Listing</strong>。</p>
+<h3 id="关键排名因子">关键排名因子</h3>
+<table>
+<thead>
+<tr>
+<th>因子</th>
+<th>权重</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>CVR（转化率）</strong></td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>最关键，决定流量值不值得给你</td>
+</tr>
+<tr>
+<td><strong>销量历史</strong></td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>过去 30 天卖了多少</td>
+</tr>
+<tr>
+<td><strong>关键词相关性</strong></td>
+<td>⭐⭐⭐⭐</td>
+<td>标题/五点是否匹配搜索词</td>
+</tr>
+<tr>
+<td><strong>评价数与星级</strong></td>
+<td>⭐⭐⭐⭐</td>
+<td>信任信号</td>
+</tr>
+<tr>
+<td><strong>价格</strong></td>
+<td>⭐⭐⭐</td>
+<td>同类目对比</td>
+</tr>
+<tr>
+<td><strong>配送速度</strong></td>
+<td>⭐⭐⭐</td>
+<td>FBA 天然加分</td>
+</tr>
+<tr>
+<td><strong>Listing 完整度</strong></td>
+<td>⭐⭐</td>
+<td>五点全/A+ 内容/视频</td>
+</tr>
+<tr>
+<td><strong>图片质量</strong></td>
+<td>⭐⭐</td>
+<td>主图、副图、A+</td>
+</tr>
+</tbody></table>
+<h2 id="飞轮效应flywheel">飞轮效应（Flywheel）</h2>
+<pre><code>关键词排名上升
+   ↓
+曝光增加
+   ↓
+点击增加（CTR 决定）
+   ↓
+订单增加（CVR 决定）
+   ↓
+销量历史变好
+   ↓
+A9 给更多流量
+   ↓
+排名继续上升 → 回到顶端
+</code></pre>
+<p><strong>起飞点</strong>：能不能熬过&quot;前 30 天&quot;——这段时间数据决定了你 6 个月的命运。</p>
+<p><strong>死亡螺旋</strong>（反向版本）：差评 → CVR 下降 → 排名掉 → 曝光降 → 销量降 → 排名继续掉 → 直到从搜索结果消失。</p>
+<h2 id="类目节点browse-node">类目节点（Browse Node）</h2>
+<h3 id="为什么重要">为什么重要</h3>
+<ul>
+<li>类目决定你和谁竞争（同类目内 BSR 排名）</li>
+<li>类目决定哪些关键词能搜到你</li>
+<li>类目错误 = 流量错配 = 销量惨淡</li>
+</ul>
+<h3 id="选类目的纪律">选类目的纪律</h3>
+<ol>
+<li>找你最像的 Top 5 对手，看他们都在哪个节点</li>
+<li>选<strong>最深的子节点</strong>（&quot;Sports &gt; Yoga &gt; Yoga Mats&quot; 而不是 &quot;Sports&quot;）</li>
+<li><strong>深节点</strong>意味着：竞争更小、关键词更精准、BSR 更容易获得</li>
+</ol>
+<h3 id="错放类目的代价">错放类目的代价</h3>
+<ul>
+<li>流量来自不相关搜索 → CTR 低、CVR 低</li>
+<li>触发&quot;分类错误&quot;投诉，被强制移类目</li>
+<li>BSR 排名失真，无参考意义</li>
+</ul>
+<h2 id="buy-box黄金购物车">Buy Box（黄金购物车）</h2>
+<p>90%+ 的订单来自&quot;加入购物车&quot;按钮——这个按钮的归属由 Buy Box 算法决定。</p>
+<h3 id="影响-buy-box-的因素">影响 Buy Box 的因素</h3>
+<ul>
+<li>价格（你的 vs 同 ASIN 其他卖家）</li>
+<li>履约方式（FBA &gt; FBM）</li>
+<li>账户绩效（订单缺陷率、按时发货率、取消率）</li>
+<li>库存稳定性</li>
+</ul>
+<h3 id="一品多卖跟卖">一品多卖（跟卖）</h3>
+<ul>
+<li>同一 ASIN 多个卖家时，Buy Box 在他们之间轮转</li>
+<li>跟卖的本质 = 抢 Buy Box</li>
+<li>防跟卖：品牌备案 + 透明计划 + 法律函</li>
+</ul>
+<h2 id="关键的quot健康分数quot">关键的&quot;健康分数&quot;</h2>
+<h3 id="1-ipiinventory-performance-index">1. IPI（Inventory Performance Index）</h3>
+<ul>
+<li>衡量 FBA 库存效率</li>
+<li>&lt; 400 → 仓储额度被限制</li>
+<li><blockquote>
+<p>500 → 可申请额外仓储额度</p>
+</blockquote>
+</li>
+<li>影响因子：库龄、动销率、滞销品比例</li>
+</ul>
+<h3 id="2-odrorder-defect-rate">2. ODR（Order Defect Rate）</h3>
+<ul>
+<li>订单缺陷率 = 差评/退款/A-Z 索赔/信用卡拒付 ÷ 订单总数</li>
+<li><blockquote>
+<p>1% → 警告</p>
+</blockquote>
+</li>
+<li><blockquote>
+<p>1% 持续 → 暂停销售权限</p>
+</blockquote>
+</li>
+</ul>
+<h3 id="3-按时发货率fbm-卖家">3. 按时发货率（FBM 卖家）</h3>
+<ul>
+<li>&lt; 97% → 警告</li>
+<li>影响 Buy Box 资格</li>
+</ul>
+<h3 id="4-有效追踪率">4. 有效追踪率</h3>
+<ul>
+<li>包裹必须有可追踪物流单号</li>
+<li>&lt; 95% → 警告</li>
+</ul>
+<h2 id="平台的quot潜规则quot">平台的&quot;潜规则&quot;</h2>
+<h3 id="1-新品扶持期">1. 新品扶持期</h3>
+<ul>
+<li>上架前 30 天有&quot;蜜月期&quot;流量加权</li>
+<li>这期间冲销量、刷评价（合规方式）成本最低</li>
+<li>错过 = 后期要花 3-5 倍成本追</li>
+</ul>
+<h3 id="2-销量记忆衰减">2. 销量记忆衰减</h3>
+<ul>
+<li>A9 看的是&quot;过去 30 天&quot;加权</li>
+<li>断货 7 天 → 排名腰斩</li>
+<li>断货 14 天 → 几乎从搜索消失</li>
+</ul>
+<h3 id="3-listing-修改风险">3. Listing 修改风险</h3>
+<ul>
+<li>标题/类目/品牌大改 → 算法会&quot;重新评估&quot;，排名波动</li>
+<li>小改（图片、五点小调整）→ 影响小</li>
+</ul>
+<h3 id="4-价格弹性">4. 价格弹性</h3>
+<ul>
+<li>涨价 5-10% → CVR 微跌但毛利可能更高（A 测）</li>
+<li>涨价 &gt; 20% → 排名直接掉</li>
+</ul>
+<h2 id="实战应用">实战应用</h2>
+<ol>
+<li><strong>永远关注 CVR</strong>——它是你和 A9 沟通的主要信号</li>
+<li><strong>不要在新品期省广告</strong>——这是最便宜的&quot;买排名&quot;窗口</li>
+<li><strong>库存比利润重要</strong>（前 6 个月）——断货 = 重新开始</li>
+<li><strong>每周看一次健康分数</strong>——任何指标接近警告线立刻处理</li>
+<li><strong>类目选错立刻改</strong>——越早越好，晚改一周代价大三倍</li>
+</ol>
+<h2 id="进阶思考">进阶思考</h2>
+<blockquote>
+<p>A9 不关心你是谁，它只关心 <strong>你的 Listing 给它带来多少 GMV</strong>。
+这意味着：</p>
+<ul>
+<li>你和大牌站在同一起跑线（如果你的 CVR 够好）</li>
+<li>你也随时会被新人取代（如果他的 CVR 更好）</li>
+</ul>
+<p>所以亚马逊的玩法不是&quot;建立品牌护城河&quot;，是&quot;持续优化 CVR&quot;。
+真正的护城河在 Amazon 之外——独立站、私域、品牌认知。</p>
+</blockquote>
+<h2 id="思考题">思考题</h2>
+<ul>
+<li>你的目标产品类目，Top 10 的平均 CVR 是多少？你能做到吗？</li>
+<li>如果你的 ODR 突然超过 1%，最可能的原因是什么？怎么排查？</li>
+<li>新品期 30 天，你打算用多少广告预算去&quot;买排名&quot;？</li>
+</ul>
+<hr>
+<p><em>参考：<a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%203%EF%BD%9C%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5/0-%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5%E6%80%BB%E8%A7%88">00-平台运营总览</a> · 关联：<a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%203%EF%BD%9C%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5/2-Listing%E4%BC%98%E5%8C%96">002-Listing优化</a> · <a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%203%EF%BD%9C%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5/4-%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7%E4%B8%8E%E9%A3%8E%E6%8E%A7">004-账户健康与风控</a> · <a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%201%EF%BD%9C%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86/4-%E5%B9%B3%E5%8F%B0%E7%BB%8F%E6%B5%8E%E6%A8%A1%E5%9E%8B">01-底层原理/4-平台经济模型</a></em></p>

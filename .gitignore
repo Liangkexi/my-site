@@ -31,6 +31,7 @@ npm-debug.log*
 
 # Generated at build time — do not commit
 lib/content-data.json
+public/_content/
 
 # Raw/original video files (too large for GitHub)
 public/video/hero-video.mp4

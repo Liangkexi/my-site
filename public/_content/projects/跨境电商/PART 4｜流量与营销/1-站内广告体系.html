@@ -1,0 +1,222 @@
+<h1 id="站内广告体系">站内广告体系</h1>
+<blockquote>
+<p>&quot;Amazon 广告不是&#39;要不要做&#39;的问题——是&#39;<strong>做多少、怎么做</strong>&#39;的问题。在算法驱动的市场里，<strong>不投广告就没有冷启动</strong>。&quot;</p>
+</blockquote>
+<h2 id="三大广告类型">三大广告类型</h2>
+<table>
+<thead>
+<tr>
+<th>类型</th>
+<th>全称</th>
+<th>展示位置</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>SP</strong></td>
+<td>Sponsored Products</td>
+<td>搜索结果中 + 详情页</td>
+<td>95% 卖家的主战场，单品推广</td>
+</tr>
+<tr>
+<td><strong>SB</strong></td>
+<td>Sponsored Brands</td>
+<td>搜索结果顶部横幅</td>
+<td>品牌备案后用，多品牌曝光</td>
+</tr>
+<tr>
+<td><strong>SD</strong></td>
+<td>Sponsored Display</td>
+<td>详情页 + 站外重定向</td>
+<td>抢竞品流量、再营销</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p><strong>新手起步</strong>：80% 预算给 SP，剩下 20% 测 SB / SD。</p>
+</blockquote>
+<h2 id="sp-广告深度拆解">SP 广告深度拆解</h2>
+<h3 id="三种投放模式">三种投放模式</h3>
+<h4 id="1-自动广告auto">1. 自动广告（Auto）</h4>
+<ul>
+<li>Amazon 替你匹配关键词</li>
+<li><strong>作用</strong>：起步阶段拓词、捡漏</li>
+<li><strong>节奏</strong>：上架第 1 周必开，跑 7-14 天</li>
+<li><strong>预算</strong>：低（$10-20/天/产品）</li>
+<li><strong>核心目的</strong>：拿&quot;搜索词报告&quot;看用户实际搜什么</li>
+</ul>
+<h4 id="2-手动关键词manual-keyword">2. 手动·关键词（Manual Keyword）</h4>
+<ul>
+<li>你指定关键词 + 出价</li>
+<li><strong>作用</strong>：精准投核心词</li>
+<li><strong>匹配类型</strong>：<ul>
+<li>广泛匹配（Broad）：流量大，相关度低</li>
+<li>词组匹配（Phrase）：折中</li>
+<li>精准匹配（Exact）：流量小，转化高</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-手动商品定向manual-product-targeting">3. 手动·商品定向（Manual Product Targeting）</h4>
+<ul>
+<li>你指定 ASIN 投放（投到具体竞品详情页）</li>
+<li><strong>作用</strong>：抢竞品流量、防御自己流量</li>
+<li><strong>使用</strong>：选评价数比你少 / 价格比你高的 ASIN</li>
+</ul>
+<h2 id="广告策略架构推荐结构">广告策略架构（推荐结构）</h2>
+<pre><code>新品（Day 1-30）：
+├── 自动广告 1 个     → 拓词
+├── 手动·广泛 1 个    → 跑大词
+└── 手动·精准 1 个    → 跑核心词
+
+成熟期（Day 30+）：
+├── 自动广告（保留，低预算捡漏）
+├── 手动·精准 N 个    → 每个核心词一个 Campaign
+├── 手动·词组 N 个    → 中长尾词
+├── 商品定向 N 个     → 攻竞品
+└── SB / SD 测试     → 增量流量
+</code></pre>
+<h2 id="关键指标">关键指标</h2>
+<table>
+<thead>
+<tr>
+<th>指标</th>
+<th>公式</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>ACoS</strong></td>
+<td>广告花费 ÷ 广告销售额</td>
+<td>越低越好（健康 &lt; 25%）</td>
+</tr>
+<tr>
+<td><strong>TACoS</strong></td>
+<td>广告花费 ÷ 总销售额</td>
+<td>看广告&quot;撬动比&quot;（健康 5-15%）</td>
+</tr>
+<tr>
+<td><strong>ROAS</strong></td>
+<td>广告销售额 ÷ 广告花费（ACoS 的倒数）</td>
+<td>越高越好</td>
+</tr>
+<tr>
+<td><strong>CTR</strong></td>
+<td>点击 ÷ 曝光</td>
+<td>主图 + 价格吸引力</td>
+</tr>
+<tr>
+<td><strong>CVR</strong></td>
+<td>订单 ÷ 点击</td>
+<td>Listing 转化能力</td>
+</tr>
+<tr>
+<td><strong>CPC</strong></td>
+<td>花费 ÷ 点击</td>
+<td>类目竞争激烈度</td>
+</tr>
+</tbody></table>
+<h3 id="acos-的quot健康值quot">ACoS 的&quot;健康值&quot;</h3>
+<ul>
+<li><strong>新品期</strong>：30-50% 可接受（在烧钱买排名）</li>
+<li><strong>成熟期</strong>：15-25% 健康</li>
+<li><strong>爆款期</strong>：&lt; 15%（自然流量带飞）</li>
+</ul>
+<h3 id="tacos-比-acos-更重要">TACoS 比 ACoS 更重要</h3>
+<ul>
+<li>ACoS 只看广告自己的转化</li>
+<li>TACoS 看广告对<strong>整体销售</strong>的贡献（包括广告带来的自然排名提升）</li>
+<li>TACoS 下降 = 你的广告在帮自然流量长</li>
+</ul>
+<h2 id="出价策略">出价策略</h2>
+<h3 id="起步出价">起步出价</h3>
+<ul>
+<li>看 Amazon 推荐出价区间</li>
+<li>取<strong>中位数</strong>起步（不要最低，也不要最高）</li>
+<li>例：推荐 $0.5-2.0 → 起步 $1.2</li>
+</ul>
+<h3 id="调价节奏">调价节奏</h3>
+<ul>
+<li><strong>每 3-7 天调一次</strong>（数据稳定后）</li>
+<li>CTR 低 + ACoS 高 → 降价或暂停</li>
+<li>CTR 高 + ACoS 低 → 加预算 + 提价</li>
+<li>ACoS = 目标值 → 维持</li>
+</ul>
+<h3 id="bid-adjustment位置加价">Bid Adjustment（位置加价）</h3>
+<ul>
+<li>&quot;搜索结果顶部&quot;加价 +50-100% 拿前位</li>
+<li>&quot;商品页面&quot;加价 -20-50% 控制成本</li>
+<li><strong>新品阶段</strong>优先抢顶部，成熟后看 ROI</li>
+</ul>
+<h2 id="关键词的quot生命周期quot">关键词的&quot;生命周期&quot;</h2>
+<pre><code>新词被发现（自动广告）
+    ↓
+转入手动·广泛（验证）
+    ↓
+表现好 → 转入手动·精准（深耕）
+表现差 → 加入否定关键词（停止浪费）
+</code></pre>
+<h3 id="否定关键词必做">否定关键词（必做）</h3>
+<ul>
+<li><strong>否定·精准</strong>：完全不相关（如卖男士剃须刀，否定&quot;women&quot;）</li>
+<li><strong>否定·词组</strong>：避免大词浪费（如否定&quot;cheap&quot;）</li>
+<li>每周看搜索词报告，把转化差的词加入否定</li>
+</ul>
+<h2 id="广告活动结构示例一个产品">广告活动结构示例（一个产品）</h2>
+<pre><code>Campaign 1: [Product]_Auto_Discovery
+  - Ad Group: Auto
+  - 预算: $15/天
+  - 目标: 拓词
+
+Campaign 2: [Product]_Manual_CoreKW_Exact
+  - Ad Group: 5 个核心精准词
+  - 预算: $30/天
+  - 目标: 主流量
+
+Campaign 3: [Product]_Manual_LongTail_Phrase
+  - Ad Group: 20 个长尾词组
+  - 预算: $20/天
+  - 目标: 低 CPC 转化
+
+Campaign 4: [Product]_PT_Competitor
+  - Ad Group: 10 个竞品 ASIN
+  - 预算: $15/天
+  - 目标: 抢竞品流量
+</code></pre>
+<h2 id="预算分配建议">预算分配建议</h2>
+<h3 id="新品-30-天">新品 30 天</h3>
+<ul>
+<li>总预算：客单价 × 30 × 0.5（即半个月销售额预算）</li>
+<li>例：售价 $30 / 目标日销 10 单 → 30 × 30 × 0.5 = $450/天 × 30 天 = $13,500</li>
+</ul>
+<blockquote>
+<p>听起来多？这是&quot;买排名&quot;的成本。不愿出 = 没销量 = 没排名 = 永远没机会。</p>
+</blockquote>
+<h3 id="成熟期">成熟期</h3>
+<ul>
+<li>TACoS 控制在 8-15% 之间</li>
+<li>ROI 持续看月度</li>
+</ul>
+<h2 id="实战应用">实战应用</h2>
+<ol>
+<li><strong>新品上架第 1 天就开广告</strong>——别等&quot;评价多了再开&quot;</li>
+<li><strong>每周看一次搜索词报告</strong>——优化词 + 加否定</li>
+<li><strong>每月做一次广告结构清理</strong>——删低效 Campaign，合并相似 Ad Group</li>
+<li><strong>不要被&quot;低 ACoS&quot;骗</strong>——可能是销量没起来才显得低</li>
+<li><strong>A/B 测试主图/价格</strong>比调广告更影响 ACoS</li>
+</ol>
+<h2 id="进阶思考">进阶思考</h2>
+<blockquote>
+<p>广告的本质是 <strong>加速器，不是发动机</strong>。</p>
+<p>一个好 Listing + 适度广告 = 螺旋上升
+一个差 Listing + 大量广告 = 烧钱黑洞</p>
+<p>当你的 ACoS 居高不下时，先别问&quot;怎么调广告&quot;——
+问 &quot;我的主图能不能做到点击率 1%+？&quot;&quot;我的 Listing 能不能做到转化 10%+？&quot;</p>
+<p>广告优化的天花板由 Listing 质量决定。</p>
+</blockquote>
+<h2 id="思考题">思考题</h2>
+<ul>
+<li>你目前的 ACoS 多少？类目均值是多少？差距来自哪？</li>
+<li>如果你今天把广告全停，自然销量能撑多久？</li>
+<li>你最近一次看搜索词报告是什么时候？发现了几个机会词？</li>
+</ul>
+<hr>
+<p><em>参考：<a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%204%EF%BD%9C%E6%B5%81%E9%87%8F%E4%B8%8E%E8%90%A5%E9%94%80/0-%E6%B5%81%E9%87%8F%E8%90%A5%E9%94%80%E6%80%BB%E8%A7%88">00-流量营销总览</a> · 关联：<a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%204%EF%BD%9C%E6%B5%81%E9%87%8F%E4%B8%8E%E8%90%A5%E9%94%80/2-%E5%85%B3%E9%94%AE%E8%AF%8D%E7%A0%94%E7%A9%B6">002-关键词研究</a> · <a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%204%EF%BD%9C%E6%B5%81%E9%87%8F%E4%B8%8E%E8%90%A5%E9%94%80/3-%E8%BD%AC%E5%8C%96%E7%8E%87%E4%BC%98%E5%8C%96">003-转化率优化</a> · <a href="https://liangkx.com/explore/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86/PART%203%EF%BD%9C%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5/2-Listing%E4%BC%98%E5%8C%96">03-平台运营/2-Listing优化</a></em></p>

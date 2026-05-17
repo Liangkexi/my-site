@@ -18,9 +18,10 @@ const require = createRequire(import.meta.url);
 const matter  = require("gray-matter");
 const { marked, Renderer } = require("marked");
 
-const __dirname  = path.dirname(fileURLToPath(import.meta.url));
-const contentDir = path.join(__dirname, "../content");
-const outputFile = path.join(__dirname, "../lib/content-data.json");
+const __dirname   = path.dirname(fileURLToPath(import.meta.url));
+const contentDir  = path.join(__dirname, "../content");
+const outputFile  = path.join(__dirname, "../lib/content-data.json");
+const htmlDir     = path.join(__dirname, "../public/_content");
 
 applyMarkdownConfig(marked, Renderer);
 
@@ -119,6 +120,22 @@ for (const type of TYPES) {
   result[type].sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
-fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), "utf-8");
+// Write HTML to individual files; keep only metadata in the JSON bundle
+fs.rmSync(htmlDir, { recursive: true, force: true });
+fs.mkdirSync(htmlDir, { recursive: true });
+
+const metaResult = {};
+for (const [type, items] of Object.entries(result)) {
+  metaResult[type] = items.map(({ html, ...meta }) => {
+    if (html) {
+      const htmlFile = path.join(htmlDir, type, ...meta.slug.split("/")) + ".html";
+      fs.mkdirSync(path.dirname(htmlFile), { recursive: true });
+      fs.writeFileSync(htmlFile, html, "utf-8");
+    }
+    return meta;
+  });
+}
+
+fs.writeFileSync(outputFile, JSON.stringify(metaResult), "utf-8");
 const total = Object.values(result).flat().length;
 console.log(`✓ content-data.json generated (${total} items)`);
