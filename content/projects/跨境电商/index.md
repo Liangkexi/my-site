@@ -1,9 +1,12 @@
 ---
+
 title: "跨境电商"
 date: "2026-05-05"
 tags: ["跨境电商", "学习笔记"]
-summary: "系统学习跨境电商的全过程笔记"
+summary: ""
+cover: 
 published: true
+
 ---
 
 ## 关于这个项目

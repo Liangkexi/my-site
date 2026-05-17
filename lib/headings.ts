@@ -1,14 +1,7 @@
 import type { TocHeading } from "@/components/TableOfContents";
+import { toHeadingId } from "./markdown-config.mjs";
 
-/** Turn heading text into an anchor-safe id */
-export function toHeadingId(text: string): string {
-  return text
-    .trim()
-    .toLowerCase()
-    .replace(/\s+/g, "-")
-    .replace(/[^\w一-鿿-]/g, "")  // keep ASCII word chars, Chinese, hyphens
-    .replace(/^-+|-+$/g, "");
-}
+export { toHeadingId };
 
 /** Extract H2 / H3 headings from raw markdown */
 export function extractHeadings(markdown: string): TocHeading[] {

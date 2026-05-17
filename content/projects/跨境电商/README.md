@@ -13,10 +13,10 @@
 
 ## 快速导航
 
-- [00-学习路线图/00-总览](https://liangkx.com/explore/跨境电商/00-学习路线图/00-总览) — 从这里开始
-- [08-实战项目/项目00-索引](https://liangkx.com/explore/跨境电商/08-实战项目/项目00-索引) — 动手区
-- [09-案例逆向工程/00-案例索引](https://liangkx.com/explore/跨境电商/09-案例逆向工程/00-案例索引) — 案例分析
-- [11-日记/000-日记索引](https://liangkx.com/explore/跨境电商/11-日记/000-日记索引) — 学习日志
+- [00-学习路线图/0-总览](https://liangkx.com/explore/跨境电商/PART 0｜学习路线图/0-总览) — 从这里开始
+- [08-实战项目/0-实战项目总览](https://liangkx.com/explore/跨境电商/PART 8｜实战项目/0-实战项目总览) — 动手区
+- [09-案例逆向工程/0-案例索引](https://liangkx.com/explore/跨境电商/PART 9｜案例逆向工程/0-案例索引) — 案例分析
+- [11-日记/0-日记索引](https://liangkx.com/explore/跨境电商/PART 11｜日记/0-日记索引) — 学习日志
 
 ## 原则
 

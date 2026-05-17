@@ -1,0 +1,25 @@
+{
+  "id": "conv-1777135029035-l00jlnxul",
+  "providerId": "claude",
+  "title": "嘿",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777135029035,
+  "updatedAt": 1778591346471,
+  "lastResponseAt": 1777135115678,
+  "sessionId": null,
+  "providerState": {
+    "providerSessionId": "ecad6f77-a570-46e7-8bee-6e4b84e103c8",
+    "previousProviderSessionIds": [
+      "c753e7ce-2b74-4a4c-b825-2fc214b17678"
+    ]
+  },
+  "usage": {
+    "model": "kimi-k2.6",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
