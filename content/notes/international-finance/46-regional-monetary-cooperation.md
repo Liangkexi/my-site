@@ -12,11 +12,11 @@ book: "国际金融学"
 随着经济全球化的发展，国际货币事务的协调日益重要。区域性货币体系的建立是国际货币体系发展的重要方向，欧元的诞生是最具里程碑意义的实践。
 
 ## 关键概念
-- **[国际政策协调(International Policy Coordination)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/3-国际协调及区域性货币体系)**：各国在货币金融领域通过协商合作协调政策
-- **[区域性货币体系(Regional Monetary System)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/3-国际协调及区域性货币体系)**：特定区域内国家间建立的货币合作体系
-- **[欧元(Euro)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/3-国际协调及区域性货币体系)**：欧洲经济货币联盟的统一货币
-- **[最优货币区理论(Optimal Currency Area, OCA)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/3-国际协调及区域性货币体系)**：探讨什么样的地理区域最适合使用单一货币或固定汇率的理论
-- **[欧洲货币体系(European Monetary System, EMS)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/3-国际协调及区域性货币体系)**：1979年建立的欧洲货币合作体系，是欧元的前身
+- **[国际政策协调(International Policy Coordination)](https://liangkx.com/explore/international-finance/46-regional-monetary-cooperation)**：各国在货币金融领域通过协商合作协调政策
+- **[区域性货币体系(Regional Monetary System)](https://liangkx.com/explore/international-finance/46-regional-monetary-cooperation)**：特定区域内国家间建立的货币合作体系
+- **[欧元(Euro)](https://liangkx.com/explore/international-finance/46-regional-monetary-cooperation)**：欧洲经济货币联盟的统一货币
+- **[最优货币区理论(Optimal Currency Area, OCA)](https://liangkx.com/explore/international-finance/46-regional-monetary-cooperation)**：探讨什么样的地理区域最适合使用单一货币或固定汇率的理论
+- **[欧洲货币体系(European Monetary System, EMS)](https://liangkx.com/explore/international-finance/46-regional-monetary-cooperation)**：1979年建立的欧洲货币合作体系，是欧元的前身
 
 ## 研究证据
 **区域性货币合作的层次**：

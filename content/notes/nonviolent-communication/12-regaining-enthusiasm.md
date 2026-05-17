@@ -20,7 +20,7 @@ book: "非暴力沟通"
 ## 研究证据
 - **头痛案例**：一位学员过去头痛时第一反应是"检讨自己做错了什么"，学习NVC后改为"我现在需要做什么来缓解头痛"——这是人生的重大突破。（第164页）
 - **开车的心态转变**：作者过去对不守规矩的司机充满愤怒和评判，后改为关注自己的感受和需要（"看到他们这样开车，我真的很害怕；我希望他们注意安全"）以及体会其他司机的感受，心情放松了许多。（第165页）
-- **精神病院演示**：面对被诊断为"慢性精神分裂症"的患者，作者不将他们视为病人进行分析，而是专注于彼此的[感受](https://liangkx.com/explore/books/nonviolent-communication/expressing-feelings)和[需要](https://liangkx.com/explore/books/nonviolent-communication/source-of-feelings)——一旦不把人当作诊断对象，人们通常会有积极的反应。（第168-170页）
+- **精神病院演示**：面对被诊断为"慢性精神分裂症"的患者，作者不将他们视为病人进行分析，而是专注于彼此的[感受](https://liangkx.com/explore/nonviolent-communication/04-expressing-feelings)和[需要](https://liangkx.com/explore/nonviolent-communication/05-source-of-feelings)——一旦不把人当作诊断对象，人们通常会有积极的反应。（第168-170页）
 
 ## 金句摘录
 > **"我们大多数人并不习惯从需要的角度来考虑问题。在不顺心时，我们倾向于考虑别人有什么错。"**（第61页）

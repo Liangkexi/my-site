@@ -12,10 +12,10 @@ book: "国际金融学"
 资产市场说是20世纪70年代中期发展起来的重要汇率决定理论，强调金融资产市场均衡对汇率变动的影响。在布雷顿森林体系解体和国际资本流动大规模扩张的背景下，该理论从资产市场均衡角度重新审视汇率决定问题。
 
 ## 关键概念
-- **[资产市场说(Asset Market Approach)](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/4-资产市场说)**：从金融资产市场均衡角度分析汇率决定的理论
-- **[汇率超调(Overshooting)](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/4-资产市场说)**：货币市场失衡后，汇率短期内会超过长期均衡水平
-- **[货币模型(Monetary Model)](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/4-资产市场说)**：将汇率视为两国货币相对价格，由货币供求决定
-- **[资产组合平衡模型(Portfolio Balance Model)](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/4-资产市场说)**：考虑国内外资产不完全替代，汇率由资产市场均衡决定
+- **[资产市场说(Asset Market Approach)](https://liangkx.com/explore/international-finance/16-asset-market-theory)**：从金融资产市场均衡角度分析汇率决定的理论
+- **[汇率超调(Overshooting)](https://liangkx.com/explore/international-finance/16-asset-market-theory)**：货币市场失衡后，汇率短期内会超过长期均衡水平
+- **[货币模型(Monetary Model)](https://liangkx.com/explore/international-finance/16-asset-market-theory)**：将汇率视为两国货币相对价格，由货币供求决定
+- **[资产组合平衡模型(Portfolio Balance Model)](https://liangkx.com/explore/international-finance/16-asset-market-theory)**：考虑国内外资产不完全替代，汇率由资产市场均衡决定
 
 ## 研究证据
 **资产市场说产生的历史背景**：

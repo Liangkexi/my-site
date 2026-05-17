@@ -12,9 +12,9 @@ book: "国际金融学"
 国际收支说是从国际收支角度分析汇率决定的理论，认为汇率是外汇市场上的价格，由外汇供求决定，而外汇供求又取决于国际收支。
 
 ## 关键概念
-- **[国际收支说(Balance of Payments Approach)](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/3-国际收支说)**：从国际收支角度分析汇率决定的理论
-- **[外汇供求](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/3-国际收支说)**：汇率由外汇市场上的供求关系决定
-- **[局部均衡分析](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/3-国际收支说)**：假设其他条件不变，分析各因素与汇率的关系
+- **[国际收支说(Balance of Payments Approach)](https://liangkx.com/explore/international-finance/15-bop-determination)**：从国际收支角度分析汇率决定的理论
+- **[外汇供求](https://liangkx.com/explore/international-finance/15-bop-determination)**：汇率由外汇市场上的供求关系决定
+- **[局部均衡分析](https://liangkx.com/explore/international-finance/15-bop-determination)**：假设其他条件不变，分析各因素与汇率的关系
 
 ## 研究证据
 **国际收支说的局限**：

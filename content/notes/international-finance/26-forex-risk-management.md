@@ -12,11 +12,11 @@ book: "国际金融学"
 跨国公司面临的外汇风险主要包括交易风险、折算风险和经济风险三种类型。有效的风险管理需要综合运用远期合约、期货、期权、互换等金融工具，以及内部管理技术。
 
 ## 关键概念
-- **[交易风险(Transaction Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对已签订合约的债权债务价值的影响
-- **[折算风险(Translation Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对跨国企业合并财务报表的影响
-- **[经济风险(Economic Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对跨国公司未来现金流量的影响，即汇率变动对跨国公司经营活动的影响主要表现在现金流量和财务结构两个方面
-- **[套期保值(Hedging)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/4-跨国公司外汇风险管理)**：通过金融工具锁定汇率以规避风险
-- **[外汇风险管理](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/4-跨国公司外汇风险管理)**：识别、衡量和管理外汇风险的过程
+- **[交易风险(Transaction Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对已签订合约的债权债务价值的影响
+- **[折算风险(Translation Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对跨国企业合并财务报表的影响
+- **[经济风险(Economic Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对跨国公司未来现金流量的影响，即汇率变动对跨国公司经营活动的影响主要表现在现金流量和财务结构两个方面
+- **[套期保值(Hedging)](https://liangkx.com/explore/international-finance/26-forex-risk-management)**：通过金融工具锁定汇率以规避风险
+- **[外汇风险管理](https://liangkx.com/explore/international-finance/26-forex-risk-management)**：识别、衡量和管理外汇风险的过程
 
 ## 研究证据
 **三种外汇风险类型的比较**：

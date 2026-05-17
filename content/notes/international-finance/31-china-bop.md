@@ -12,9 +12,9 @@ book: "国际金融学"
 我国的国际收支在改革开放后发生了深刻变化，呈现出经常项目和资本项目"双顺差"的典型特征，由此带来了外汇储备快速增长和货币政策独立性面临挑战等问题。
 
 ## 关键概念
-- **[双顺差](https://liangkx.com/explore/国际金融学/PART 8｜国际收支调节/4-我国的国际收支分析)**：经常账户和资本与金融账户同时出现顺差的现象
-- **[外汇储备增长](https://liangkx.com/explore/国际金融学/PART 8｜国际收支调节/4-我国的国际收支分析)**：双顺差导致的外汇储备快速积累
-- **[国际收支结构](https://liangkx.com/explore/国际金融学/PART 8｜国际收支调节/4-我国的国际收支分析)**：我国国际收支各项目的构成和变化趋势
+- **[双顺差](https://liangkx.com/explore/international-finance/31-china-bop)**：经常账户和资本与金融账户同时出现顺差的现象
+- **[外汇储备增长](https://liangkx.com/explore/international-finance/31-china-bop)**：双顺差导致的外汇储备快速积累
+- **[国际收支结构](https://liangkx.com/explore/international-finance/31-china-bop)**：我国国际收支各项目的构成和变化趋势
 
 ## 研究证据
 **我国国际收支的主要特征**：

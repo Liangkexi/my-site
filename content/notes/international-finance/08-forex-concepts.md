@@ -12,13 +12,13 @@ book: "国际金融学"
 外汇是国际金融最基本的概念之一，有动态与静态、广义与狭义之分。一种外币成为外汇需满足自由兑换性、可接受性和可偿性三个前提条件。
 
 ## 关键概念
-- **[外汇(Foreign Exchange)](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：国际汇兑。动态含义指将一国货币兑换为另一国货币以清偿国际债权债务的活动；静态含义指为清偿债权债务而进行的汇兑活动所凭借的手段和工具
-- **[外汇三特征](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：自由兑换性（能自由兑换成本币）、可接受性（被各国普遍接受和使用）、可偿性（能得到补偿的债权）
-- **[外币存款](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：外汇价值的主要表现形式
-- **[汇票(Bill of Exchange)](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：由债权人（如出口商）开立，要求付款人按约定时间对指定人无条件支付一定金额的书面命令
-- **[本票(Promissory Note)](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：由发票人（债务人）向收款人签发的保证在指定到期日无条件支付一定金额的书面承诺
-- **[支票(Check)](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：以银行为付款人的见票即付的支付工具
-- **[信用卡(Credit Card)](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)**：信用机构对具有一定信用的顾客提供的电子信用卡片
+- **[外汇(Foreign Exchange)](https://liangkx.com/explore/international-finance/08-forex-concepts)**：国际汇兑。动态含义指将一国货币兑换为另一国货币以清偿国际债权债务的活动；静态含义指为清偿债权债务而进行的汇兑活动所凭借的手段和工具
+- **[外汇三特征](https://liangkx.com/explore/international-finance/08-forex-concepts)**：自由兑换性（能自由兑换成本币）、可接受性（被各国普遍接受和使用）、可偿性（能得到补偿的债权）
+- **[外币存款](https://liangkx.com/explore/international-finance/08-forex-concepts)**：外汇价值的主要表现形式
+- **[汇票(Bill of Exchange)](https://liangkx.com/explore/international-finance/08-forex-concepts)**：由债权人（如出口商）开立，要求付款人按约定时间对指定人无条件支付一定金额的书面命令
+- **[本票(Promissory Note)](https://liangkx.com/explore/international-finance/08-forex-concepts)**：由发票人（债务人）向收款人签发的保证在指定到期日无条件支付一定金额的书面承诺
+- **[支票(Check)](https://liangkx.com/explore/international-finance/08-forex-concepts)**：以银行为付款人的见票即付的支付工具
+- **[信用卡(Credit Card)](https://liangkx.com/explore/international-finance/08-forex-concepts)**：信用机构对具有一定信用的顾客提供的电子信用卡片
 
 ## 研究证据
 **外汇的形态**：

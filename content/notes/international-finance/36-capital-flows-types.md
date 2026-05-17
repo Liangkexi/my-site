@@ -12,12 +12,12 @@ book: "国际金融学"
 国际资本流动是指资本从一个国家或地区向另一个国家或地区的转移。20世纪80年代以来，国际资本流动取得了突破性发展，其流量大大超过国际贸易流量，对世界经济产生着巨大影响。
 
 ## 关键概念
-- **[国际资本流动(International Capital Flow)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：资本在国际间的转移过程，包括资本流入和资本流出
-- **[长期资本流动(Long-term Capital Flow)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：期限在一年以上的资本流动，包括直接投资、证券投资和国际贷款
-- **[短期资本流动(Short-term Capital Flow)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：期限在一年以内的资本流动，包括贸易信贷、银行短期存贷款等
-- **[直接投资(Direct Investment)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：以获得国外企业经营控制权为目的的投资
-- **[间接投资(Indirect Investment)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：以获取收益为目的的证券投资
-- **[国际游资(Hot Money)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：在国际市场上频繁流动的短期投机性资本
+- **[国际资本流动(International Capital Flow)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：资本在国际间的转移过程，包括资本流入和资本流出
+- **[长期资本流动(Long-term Capital Flow)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：期限在一年以上的资本流动，包括直接投资、证券投资和国际贷款
+- **[短期资本流动(Short-term Capital Flow)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：期限在一年以内的资本流动，包括贸易信贷、银行短期存贷款等
+- **[直接投资(Direct Investment)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：以获得国外企业经营控制权为目的的投资
+- **[间接投资(Indirect Investment)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：以获取收益为目的的证券投资
+- **[国际游资(Hot Money)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：在国际市场上频繁流动的短期投机性资本
 
 ## 研究证据
 **国际资本流动的现状特征**：

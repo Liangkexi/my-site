@@ -12,11 +12,11 @@ book: "国际金融学"
 国际储备管理包括规模管理和结构管理两个方面。规模管理要确定适度的储备水平，结构管理则涉及储备资产的币种配置和资产组合优化。
 
 ## 关键概念
-- **[储备规模管理](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/2-国际储备的管理)**：确定一国最优储备水平的决策过程
-- **[储备结构管理](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/2-国际储备的管理)**：优化储备资产的币种和资产配置
-- **[储备需求](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/2-国际储备的管理)**：一国需要持有多少国际储备
-- **[特里芬比例](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/2-国际储备的管理)**：一国外汇储备与其进口额的比例，通常以能支付3-4个月进口为标准
-- **[储备多元化](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/2-国际储备的管理)**：储备货币由单一向多种货币演变
+- **[储备规模管理](https://liangkx.com/explore/international-finance/34-reserves-management)**：确定一国最优储备水平的决策过程
+- **[储备结构管理](https://liangkx.com/explore/international-finance/34-reserves-management)**：优化储备资产的币种和资产配置
+- **[储备需求](https://liangkx.com/explore/international-finance/34-reserves-management)**：一国需要持有多少国际储备
+- **[特里芬比例](https://liangkx.com/explore/international-finance/34-reserves-management)**：一国外汇储备与其进口额的比例，通常以能支付3-4个月进口为标准
+- **[储备多元化](https://liangkx.com/explore/international-finance/34-reserves-management)**：储备货币由单一向多种货币演变
 
 ## 研究证据
 **决定储备需求的因素**：

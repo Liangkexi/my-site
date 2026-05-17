@@ -9,7 +9,7 @@ book: "非暴力沟通"
 # 爱自己
 
 ## 核心论点
-非暴力沟通最重要的应用也许在于爱护自己。**当我们的表现不完美时，若习惯于用自我憎恨来惩罚自己，就会忘记我们是"特殊的生命"，而把自己当作一张椅子**。非暴力沟通提供两条路径来转变自我关系：[非暴力沟通的忧伤](https://liangkx.com/explore/books/nonviolent-communication/key-terms)（体会需要而非自我谴责）和[自我宽恕](https://liangkx.com/explore/books/nonviolent-communication/key-terms)（理解行为背后的需要）。同时，用"选择做"替代"不得不"，让改变出于对生命的爱，而非内疚或羞愧。
+非暴力沟通最重要的应用也许在于爱护自己。**当我们的表现不完美时，若习惯于用自我憎恨来惩罚自己，就会忘记我们是"特殊的生命"，而把自己当作一张椅子**。非暴力沟通提供两条路径来转变自我关系：[非暴力沟通的忧伤](https://liangkx.com/explore/nonviolent-communication/00-key-terms)（体会需要而非自我谴责）和[自我宽恕](https://liangkx.com/explore/nonviolent-communication/00-key-terms)（理解行为背后的需要）。同时，用"选择做"替代"不得不"，让改变出于对生命的爱，而非内疚或羞愧。
 
 ## 关键概念
 - **"应该"的毒性**："应该"意味着别无选择，让我们感到无奈和沮丧。如"我应该早点知道"、"我不应该做那件事情"。（第119页）

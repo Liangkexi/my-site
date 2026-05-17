@@ -9,10 +9,10 @@ book: "非暴力沟通"
 # 让爱融入生活
 
 ## 核心论点
-本章作为开篇，提出非暴力沟通（NVC）的核心理念：**人天生热爱生命，乐于互助**。作者追问：究竟是什么使我们难以体会到心中的爱，以致互相伤害？又是什么，让有些人即使在充满敌意的环境中，也能心存爱意？答案在于我们有意识地转变谈话和聆听的方式——不再条件反射式地反应，而是去明了自己的[观察](https://liangkx.com/explore/books/nonviolent-communication/observation-vs-evaluation)、[感受](https://liangkx.com/explore/books/nonviolent-communication/expressing-feelings)、[需要](https://liangkx.com/explore/books/nonviolent-communication/source-of-feelings)和[愿望](https://liangkx.com/explore/books/nonviolent-communication/requesting-help)，有意识地使用语言。
+本章作为开篇，提出非暴力沟通（NVC）的核心理念：**人天生热爱生命，乐于互助**。作者追问：究竟是什么使我们难以体会到心中的爱，以致互相伤害？又是什么，让有些人即使在充满敌意的环境中，也能心存爱意？答案在于我们有意识地转变谈话和聆听的方式——不再条件反射式地反应，而是去明了自己的[观察](https://liangkx.com/explore/nonviolent-communication/03-observation-vs-evaluation)、[感受](https://liangkx.com/explore/nonviolent-communication/04-expressing-feelings)、[需要](https://liangkx.com/explore/nonviolent-communication/05-source-of-feelings)和[愿望](https://liangkx.com/explore/nonviolent-communication/06-requesting-help)，有意识地使用语言。
 
 ## 关键概念
-- **[非暴力沟通（NVC）](https://liangkx.com/explore/books/nonviolent-communication/key-terms)**：借用甘地的"非暴力"一词，指暴力消退后自然流露的爱，也称"爱的语言"。它是一种持续不断的提醒，使我们专注于更可能满足我们人生追求的方向。（第14页）
+- **[非暴力沟通（NVC）](https://liangkx.com/explore/nonviolent-communication/00-key-terms)**：借用甘地的"非暴力"一词，指暴力消退后自然流露的爱，也称"爱的语言"。它是一种持续不断的提醒，使我们专注于更可能满足我们人生追求的方向。（第14页）
 - **非暴力沟通四要素**：观察→感受→需要→请求。诚实地表达自己，并关切地倾听他人。（第16页）
 
 ## 研究证据

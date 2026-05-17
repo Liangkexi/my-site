@@ -12,8 +12,8 @@ book: "国际金融学"
 国际资本流动对一国经济既有积极作用也有消极影响。短期资本流动具有投机性强、波动性大的特点，既可能促进市场效率，也可能加剧金融市场动荡。
 
 ## 关键概念
-- **[国际资本流动的影响](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/2-国际资本流动的影响分析)**：对流入国和流出国产生的经济效应
-- **[短期资本流动的投机性](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/2-国际资本流动的影响分析)**：利用汇率、利率差异获取短期利益
+- **[国际资本流动的影响](https://liangkx.com/explore/international-finance/37-capital-flows-impact)**：对流入国和流出国产生的经济效应
+- **[短期资本流动的投机性](https://liangkx.com/explore/international-finance/37-capital-flows-impact)**：利用汇率、利率差异获取短期利益
 
 ## 研究证据
 **国际资本流动的积极影响**：

@@ -12,14 +12,14 @@ book: "国际金融学"
 国际收支平衡表账面上的平衡不是经济意义上的平衡。区分自主性交易与调节性交易是判断国际收支是否真正均衡的关键。国际收支不平衡是绝对的、经常的。
 
 ## 关键概念
-- **[自主性交易(Autonomous Transaction)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：经济实体为达到某种目的主动、自发进行的经济交易，如商品劳务进出口、汇款等。自主性交易是否平衡是衡量国际收支长期性平衡的重要标志
-- **[调节性交易(Accommodating Transaction)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：为弥补国际收支不平衡而进行的相关交易，如增减外汇储备、向外国政府或国际金融机构借款
-- **[国际收支失衡(Disequilibrium)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：国际收支出现不同程度的顺差或逆差
-- **[周期性不平衡](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：经济周期波动引起的国际收支不平衡
-- **[结构性不平衡](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：产业结构不适应国际分工格局变化引起的国际收支不平衡
-- **[临时性不平衡](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：短期偶然因素（自然灾害、战争等）引起的国际收支不平衡
-- **[收入性不平衡](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：国民收入变化导致的国际收支不平衡
-- **[货币性不平衡](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/3-国际收支分析)**：货币供应量变化引起通货膨胀导致的国际收支不平衡
+- **[自主性交易(Autonomous Transaction)](https://liangkx.com/explore/international-finance/06-bop-analysis)**：经济实体为达到某种目的主动、自发进行的经济交易，如商品劳务进出口、汇款等。自主性交易是否平衡是衡量国际收支长期性平衡的重要标志
+- **[调节性交易(Accommodating Transaction)](https://liangkx.com/explore/international-finance/06-bop-analysis)**：为弥补国际收支不平衡而进行的相关交易，如增减外汇储备、向外国政府或国际金融机构借款
+- **[国际收支失衡(Disequilibrium)](https://liangkx.com/explore/international-finance/06-bop-analysis)**：国际收支出现不同程度的顺差或逆差
+- **[周期性不平衡](https://liangkx.com/explore/international-finance/06-bop-analysis)**：经济周期波动引起的国际收支不平衡
+- **[结构性不平衡](https://liangkx.com/explore/international-finance/06-bop-analysis)**：产业结构不适应国际分工格局变化引起的国际收支不平衡
+- **[临时性不平衡](https://liangkx.com/explore/international-finance/06-bop-analysis)**：短期偶然因素（自然灾害、战争等）引起的国际收支不平衡
+- **[收入性不平衡](https://liangkx.com/explore/international-finance/06-bop-analysis)**：国民收入变化导致的国际收支不平衡
+- **[货币性不平衡](https://liangkx.com/explore/international-finance/06-bop-analysis)**：货币供应量变化引起通货膨胀导致的国际收支不平衡
 
 ## 研究证据
 **国际收支平衡的判断口径（四类差额）**：

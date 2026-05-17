@@ -12,21 +12,21 @@ book: "国际金融学"
 汇率制度是一国货币当局对本国货币汇率水平的确定方式和变动方式所做的制度安排。汇率制度的选择是一国汇率政策的核心问题。
 
 ## 跨章节链接
-- [汇率](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/2-汇率的标价方法和种类)的标价法与种类是理解汇率制度的基础（第三章）
-- [布雷顿森林体系](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/2-国际货币制度的演进)中的固定汇率制（第十二章）
-- [牙买加体系](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/2-国际货币制度的演进)确立了浮动汇率制的合法性（第十二章）
-- [国际货币基金组织](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/4-国际金融机构的作用)对汇率制度的监督作用（第十二章）
-- [人民币汇率制度](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)的改革与中国外汇市场发展（第四章）
+- [汇率](https://liangkx.com/explore/international-finance/09-forex-pricing)的标价法与种类是理解汇率制度的基础（第三章）
+- [布雷顿森林体系](https://liangkx.com/explore/international-finance/45-monetary-system-history)中的固定汇率制（第十二章）
+- [牙买加体系](https://liangkx.com/explore/international-finance/45-monetary-system-history)确立了浮动汇率制的合法性（第十二章）
+- [国际货币基金组织](https://liangkx.com/explore/international-finance/47-international-institutions)对汇率制度的监督作用（第十二章）
+- [人民币汇率制度](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)的改革与中国外汇市场发展（第四章）
 
 ## 关键概念
-- **[汇率制度(Exchange Rate Regime)](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：一国货币当局对本国货币汇率确定和变动所做的制度安排
-- **[固定汇率制(Fixed Exchange Rate System)](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：一国货币与他国货币的汇率基本固定，波动幅度限制在一定范围内
-- **[浮动汇率制(Floating Exchange Rate System)](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：汇率由外汇市场供求决定，货币当局不设定固定平价
-- **[管理浮动汇率制(Managed Floating)](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：汇率主要由市场决定，但货币当局在必要时进行干预
-- **[钉住汇率制(Pegged Exchange Rate System)](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：将本币汇率钉住某一种或一篮子货币
-- **[经济论](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：认为汇率制度选择主要决定于经济因素（经济对外依存程度、经济规模、进出口商品结构等）
-- **[依附论](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：认为一国的汇率选择取决于其经济、政治和军事等方面的对外关系
-- **[人民币汇率制度](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)**：人民币汇率以物价水平为基础，参考两国物价对比制定
+- **[汇率制度(Exchange Rate Regime)](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：一国货币当局对本国货币汇率确定和变动所做的制度安排
+- **[固定汇率制(Fixed Exchange Rate System)](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：一国货币与他国货币的汇率基本固定，波动幅度限制在一定范围内
+- **[浮动汇率制(Floating Exchange Rate System)](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：汇率由外汇市场供求决定，货币当局不设定固定平价
+- **[管理浮动汇率制(Managed Floating)](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：汇率主要由市场决定，但货币当局在必要时进行干预
+- **[钉住汇率制(Pegged Exchange Rate System)](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：将本币汇率钉住某一种或一篮子货币
+- **[经济论](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：认为汇率制度选择主要决定于经济因素（经济对外依存程度、经济规模、进出口商品结构等）
+- **[依附论](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：认为一国的汇率选择取决于其经济、政治和军事等方面的对外关系
+- **[人民币汇率制度](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)**：人民币汇率以物价水平为基础，参考两国物价对比制定
 
 ## 研究证据
 **影响汇率制度选择的经济因素（经济论）**：

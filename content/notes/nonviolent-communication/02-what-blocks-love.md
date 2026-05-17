@@ -9,10 +9,10 @@ book: "非暴力沟通"
 # 是什么蒙蔽了爱？
 
 ## 核心论点
-本章诊断阻碍爱的根源——**异化的沟通方式**。某些语言和表达方式虽致力于满足某种愿望，却倾向于忽视人的感受和需要，以致彼此疏远和伤害。作者总结出四种异化沟通方式：[道德评判](https://liangkx.com/explore/books/nonviolent-communication/key-terms)、进行比较、[回避责任](https://liangkx.com/explore/books/nonviolent-communication/key-terms)、[强人所难](https://liangkx.com/explore/books/nonviolent-communication/key-terms)。
+本章诊断阻碍爱的根源——**异化的沟通方式**。某些语言和表达方式虽致力于满足某种愿望，却倾向于忽视人的感受和需要，以致彼此疏远和伤害。作者总结出四种异化沟通方式：[道德评判](https://liangkx.com/explore/nonviolent-communication/00-key-terms)、进行比较、[回避责任](https://liangkx.com/explore/nonviolent-communication/00-key-terms)、[强人所难](https://liangkx.com/explore/nonviolent-communication/00-key-terms)。
 
 ## 关键概念
-- **[异化的沟通方式](https://liangkx.com/explore/books/nonviolent-communication/key-terms)**：致力于满足某种愿望，却倾向于忽视人的感受和需要，以致彼此疏远和伤害的语言表达方式。（第27页）
+- **[异化的沟通方式](https://liangkx.com/explore/nonviolent-communication/00-key-terms)**：致力于满足某种愿望，却倾向于忽视人的感受和需要，以致彼此疏远和伤害的语言表达方式。（第27页）
 - **道德评判**：当一个人的行为不符合我们的价值观，我们将其视为不道德的或邪恶的。批评、指责、辱骂、归类、比较、评论等都属于评判。（第27页）
 - **进行比较**：比较是评判的一种形式，会蒙蔽我们对人对己的爱意。（第30页）
 - **回避责任**：使用"不得不""你让我"等短语淡化个人责任。"一旦意识不到我们是自己的主人，我们就成了危险人物。"（第31页）

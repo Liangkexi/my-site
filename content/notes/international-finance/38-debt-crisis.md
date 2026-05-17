@@ -12,17 +12,17 @@ book: "国际金融学"
 国际资本流动与一国的债务问题密切相关。外债管理不当可能导致债务危机，对一国经济和国际金融体系造成严重冲击。
 
 ## 跨章节链接
-- [国际资本流动](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)的基本分类与特征（本章第一节）
-- [短期资本流动](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)在债务危机中的作用（本章第二节）
-- [偿债率](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)等外债衡量指标与[国际储备](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/1-国际储备概述)充足性的关系（第九章）
-- [发展中国家](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/4-国际金融机构的作用)债务危机与[国际金融机构](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/4-国际金融机构的作用)的作用（第十二章）
+- [国际资本流动](https://liangkx.com/explore/international-finance/36-capital-flows-types)的基本分类与特征（本章第一节）
+- [短期资本流动](https://liangkx.com/explore/international-finance/36-capital-flows-types)在债务危机中的作用（本章第二节）
+- [偿债率](https://liangkx.com/explore/international-finance/38-debt-crisis)等外债衡量指标与[国际储备](https://liangkx.com/explore/international-finance/33-reserves-overview)充足性的关系（第九章）
+- [发展中国家](https://liangkx.com/explore/international-finance/47-international-institutions)债务危机与[国际金融机构](https://liangkx.com/explore/international-finance/47-international-institutions)的作用（第十二章）
 
 ## 关键概念
-- **[外债(Foreign Debt)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)**：一国居民向境外法人或自然人承担的、具有契约性偿还义务的全部债务
-- **[偿债率(Debt Service Ratio)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)**：当年外债本息偿还额占当年外汇总收入的比率。国际上一般认为偿债率指标在20%以下是安全的
-- **[负债率(Liability Ratio)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)**：当年外债余额占当年国民生产总值的比率，安全线通常为20%-25%
-- **[债务率(Debt Ratio)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)**：当年外债余额占当年外汇总收入的比率
-- **[债务危机(Debt Crisis)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)**：一国无法按时偿还外债本息的危机状态
+- **[外债(Foreign Debt)](https://liangkx.com/explore/international-finance/38-debt-crisis)**：一国居民向境外法人或自然人承担的、具有契约性偿还义务的全部债务
+- **[偿债率(Debt Service Ratio)](https://liangkx.com/explore/international-finance/38-debt-crisis)**：当年外债本息偿还额占当年外汇总收入的比率。国际上一般认为偿债率指标在20%以下是安全的
+- **[负债率(Liability Ratio)](https://liangkx.com/explore/international-finance/38-debt-crisis)**：当年外债余额占当年国民生产总值的比率，安全线通常为20%-25%
+- **[债务率(Debt Ratio)](https://liangkx.com/explore/international-finance/38-debt-crisis)**：当年外债余额占当年外汇总收入的比率
+- **[债务危机(Debt Crisis)](https://liangkx.com/explore/international-finance/38-debt-crisis)**：一国无法按时偿还外债本息的危机状态
 
 ## 研究证据
 **外债的四个要素**（IMF、世界银行、OECD和国际清算银行的共识）：

@@ -12,10 +12,10 @@ book: "国际金融学"
 汇率作为一国货币对外价格的表现形式，受到国际收支、相对通货膨胀率、相对利率等多种国内外经济因素影响。汇率变动反过来又对国际贸易、资本流动、国内经济等方面产生深远影响。
 
 ## 关键概念
-- **[国际收支对汇率的影响](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/3-影响汇率变动的因素)**：顺差→本币汇率上升，逆差→本币汇率下降。但短期小额差额可能被其他因素抵消
-- **[相对通货膨胀率](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/3-影响汇率变动的因素)**：一国通胀率较高→本币购买力下降→本币对外价值下降→汇率下跌
-- **[相对利率水平](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/3-影响汇率变动的因素)**：利率相对较高→吸引外资流入→本币汇率上升
-- **[汇率变动的经济影响](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/3-影响汇率变动的因素)**：影响进出口贸易、资本流动、国内物价、就业等
+- **[国际收支对汇率的影响](https://liangkx.com/explore/international-finance/10-forex-factors)**：顺差→本币汇率上升，逆差→本币汇率下降。但短期小额差额可能被其他因素抵消
+- **[相对通货膨胀率](https://liangkx.com/explore/international-finance/10-forex-factors)**：一国通胀率较高→本币购买力下降→本币对外价值下降→汇率下跌
+- **[相对利率水平](https://liangkx.com/explore/international-finance/10-forex-factors)**：利率相对较高→吸引外资流入→本币汇率上升
+- **[汇率变动的经济影响](https://liangkx.com/explore/international-finance/10-forex-factors)**：影响进出口贸易、资本流动、国内物价、就业等
 
 ## 研究证据
 **影响汇率变动的五大主要因素**：

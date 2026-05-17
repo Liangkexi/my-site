@@ -12,10 +12,10 @@ book: "国际金融学"
 国际收支是一国在一定时期内与世界其他地方的交易的系统记录，有狭义和广义之分。现代国际金融学采用广义概念，强调居民与非居民之间的经济交易。
 
 ## 关键概念
-- **[国际收支(Balance of Payments)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/1-国际收支的概念)**：一种统计报表，系统记载在一定时期内经济主体与世界其他地方的交易。大部分交易在居民与非居民之间进行
-- **[居民(Resident)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/1-国际收支的概念)**：企业、政府、非营利机构、在所在国从事一年以上经济活动的自然人（无论国籍）
-- **[非居民(Non-resident)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/1-国际收支的概念)**：外国使领馆等驻外机构、国际组织对任何国家而言都是非居民
-- **[经济交易(Economic Transaction)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/1-国际收支的概念)**：包括商品和劳务买卖、实物交换、金融资产交换、无偿转移等
+- **[国际收支(Balance of Payments)](https://liangkx.com/explore/international-finance/04-bop-concept)**：一种统计报表，系统记载在一定时期内经济主体与世界其他地方的交易。大部分交易在居民与非居民之间进行
+- **[居民(Resident)](https://liangkx.com/explore/international-finance/04-bop-concept)**：企业、政府、非营利机构、在所在国从事一年以上经济活动的自然人（无论国籍）
+- **[非居民(Non-resident)](https://liangkx.com/explore/international-finance/04-bop-concept)**：外国使领馆等驻外机构、国际组织对任何国家而言都是非居民
+- **[经济交易(Economic Transaction)](https://liangkx.com/explore/international-finance/04-bop-concept)**：包括商品和劳务买卖、实物交换、金融资产交换、无偿转移等
 
 ## 研究证据
 **国际收支定义的三个理解维度**：

@@ -12,10 +12,10 @@ book: "国际金融学"
 跨国公司的资金管理比国内公司更加复杂，涉及跨国资金调拨、现金集中管理、内部转移定价等独特的资金管理问题。
 
 ## 关键概念
-- **[现金集中管理(Centralized Cash Management)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/3-资金管理)**：跨国公司通过设立中心资金库对全球现金进行统一调度
-- **[内部转移定价(Transfer Pricing)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/3-资金管理)**：跨国公司内部各关联企业之间交易价格制定
-- **[净额结算(Netting)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/3-资金管理)**：跨国公司内部各子公司之间的债权债务进行抵销后只结算净额
-- **[提前/滞后收付(Leads and Lags)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/3-资金管理)**：通过调整应收应付款项的收付时间来管理外汇风险
+- **[现金集中管理(Centralized Cash Management)](https://liangkx.com/explore/international-finance/25-fund-management)**：跨国公司通过设立中心资金库对全球现金进行统一调度
+- **[内部转移定价(Transfer Pricing)](https://liangkx.com/explore/international-finance/25-fund-management)**：跨国公司内部各关联企业之间交易价格制定
+- **[净额结算(Netting)](https://liangkx.com/explore/international-finance/25-fund-management)**：跨国公司内部各子公司之间的债权债务进行抵销后只结算净额
+- **[提前/滞后收付(Leads and Lags)](https://liangkx.com/explore/international-finance/25-fund-management)**：通过调整应收应付款项的收付时间来管理外汇风险
 
 ## 研究证据
 **跨国公司资金管理的特点**：

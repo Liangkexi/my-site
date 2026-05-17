@@ -12,18 +12,18 @@ book: "国际金融学"
 跨国公司是在多个国家拥有或控制生产和服务设施的企业。跨国财务管理面对的是跨国经营活动中特有的汇率风险、政治风险等挑战，其核心目标是实现公司价值最大化。
 
 ## 跨章节链接
-- [外汇市场](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)与跨国公司外汇交易（第四章）
-- [外汇风险](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)管理工具：远期合约、期货、期权（第四章、第六章）
-- [国际融资](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/2-国际融资)渠道与国际金融市场（第六章）
-- [国际资本流动](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)与跨国公司全球资金配置（第十章）
+- [外汇市场](https://liangkx.com/explore/international-finance/11-forex-market)与跨国公司外汇交易（第四章）
+- [外汇风险](https://liangkx.com/explore/international-finance/11-forex-market)管理工具：远期合约、期货、期权（第四章、第六章）
+- [国际融资](https://liangkx.com/explore/international-finance/24-international-financing)渠道与国际金融市场（第六章）
+- [国际资本流动](https://liangkx.com/explore/international-finance/36-capital-flows-types)与跨国公司全球资金配置（第十章）
 
 ## 关键概念
-- **[跨国公司(Multinational Corporation, MNC)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：在两个或两个以上国家拥有或控制生产和服务设施的企业
-- **[跨国财务管理(Multinational Financial Management)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：针对跨国公司特有的财务管理问题，包括国际融资、资金管理、外汇风险管理等
-- **[外汇风险(Foreign Exchange Exposure)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：汇率变动对跨国公司经营成果和财务状况的影响
-- **[经济风险(Economic Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对跨国公司未来现金流量的影响
-- **[折算风险(Translation Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对跨国公司合并财务报表的影响
-- **[交易风险(Transaction Exposure)](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)**：汇率变动对已签订合约的债权债务价值的影响
+- **[跨国公司(Multinational Corporation, MNC)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：在两个或两个以上国家拥有或控制生产和服务设施的企业
+- **[跨国财务管理(Multinational Financial Management)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：针对跨国公司特有的财务管理问题，包括国际融资、资金管理、外汇风险管理等
+- **[外汇风险(Foreign Exchange Exposure)](https://liangkx.com/explore/international-finance/11-forex-market)**：汇率变动对跨国公司经营成果和财务状况的影响
+- **[经济风险(Economic Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对跨国公司未来现金流量的影响
+- **[折算风险(Translation Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对跨国公司合并财务报表的影响
+- **[交易风险(Transaction Exposure)](https://liangkx.com/explore/international-finance/23-mnc-finance)**：汇率变动对已签订合约的债权债务价值的影响
 
 ## 研究证据
 **跨国公司财务管理的特殊挑战**：

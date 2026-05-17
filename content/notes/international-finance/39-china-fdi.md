@@ -12,9 +12,9 @@ book: "国际金融学"
 我国在改革开放后积极利用外资，形成了以直接投资为主、多种方式并存的利用外资格局。科学的外资管理战略对于促进经济发展和防范金融风险具有重要意义。
 
 ## 关键概念
-- **[利用外资](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/4-我国利用外资的战略与管理)**：通过引进外国资本促进本国经济发展
-- **[外商直接投资(FDI)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/4-我国利用外资的战略与管理)**：外国投资者在我国设立企业或进行股权投资的资本流入
-- **[外债管理](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/4-我国利用外资的战略与管理)**：对外债规模、结构、风险进行管理的制度安排
+- **[利用外资](https://liangkx.com/explore/international-finance/39-china-fdi)**：通过引进外国资本促进本国经济发展
+- **[外商直接投资(FDI)](https://liangkx.com/explore/international-finance/39-china-fdi)**：外国投资者在我国设立企业或进行股权投资的资本流入
+- **[外债管理](https://liangkx.com/explore/international-finance/39-china-fdi)**：对外债规模、结构、风险进行管理的制度安排
 
 ## 研究证据
 **我国利用外资的特点**：

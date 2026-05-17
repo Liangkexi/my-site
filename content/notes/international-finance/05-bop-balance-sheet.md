@@ -12,14 +12,14 @@ book: "国际金融学"
 国际收支平衡表是按照复式记账原理和特定账户分类编制的一种统计报表，由经常账户、资本与金融账户、错误与遗漏账户三大类组成，是宏观经济分析的核心工具。
 
 ## 关键概念
-- **[国际收支平衡表](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：根据经济分析需要，将国际收支按复式记账原理和特定账户分类编制的统计报表
-- **[复式记账原理](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**："有借必有贷、借贷必相等"，每一笔经济交易分别记入借方和贷方
-- **[经常账户(Current Account)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：反映国际实际资源流动，包括货物、服务、收入和经常转移四个项目。顺差表示净贷款人，逆差表示净借款人
-- **[资本和金融账户(Capital and Financial Account)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：记录资本在国际的流动，包括资本账户和金融账户两大部分
-- **[直接投资(Direct Investment)](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/1-国际资本流动的特点与分类)**：对国外企业拥有长久权益的投资行为，包括直接建立分支企业、国外企业收购、收益再投资
-- **[证券投资(Portfolio Investment)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：对别国股本证券、债券的投资
-- **[储备资产(Reserve Assets)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：一国货币当局拥有并可随时调控的对外资产，包括外汇资产、货币黄金、特别提款权、在IMF的储备头寸
-- **[错误与遗漏账户(Errors and Omission Account)](https://liangkx.com/explore/国际金融学/PART 2｜国际收支账户/2-国际收支平衡表)**：为抵消统计误差而设立的人为抵销账户
+- **[国际收支平衡表](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：根据经济分析需要，将国际收支按复式记账原理和特定账户分类编制的统计报表
+- **[复式记账原理](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**："有借必有贷、借贷必相等"，每一笔经济交易分别记入借方和贷方
+- **[经常账户(Current Account)](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：反映国际实际资源流动，包括货物、服务、收入和经常转移四个项目。顺差表示净贷款人，逆差表示净借款人
+- **[资本和金融账户(Capital and Financial Account)](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：记录资本在国际的流动，包括资本账户和金融账户两大部分
+- **[直接投资(Direct Investment)](https://liangkx.com/explore/international-finance/36-capital-flows-types)**：对国外企业拥有长久权益的投资行为，包括直接建立分支企业、国外企业收购、收益再投资
+- **[证券投资(Portfolio Investment)](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：对别国股本证券、债券的投资
+- **[储备资产(Reserve Assets)](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：一国货币当局拥有并可随时调控的对外资产，包括外汇资产、货币黄金、特别提款权、在IMF的储备头寸
+- **[错误与遗漏账户(Errors and Omission Account)](https://liangkx.com/explore/international-finance/05-bop-balance-sheet)**：为抵消统计误差而设立的人为抵销账户
 
 ## 研究证据
 **国际收支平衡表的作用（三个层面）**：

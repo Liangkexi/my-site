@@ -12,15 +12,15 @@ book: "国际金融学"
 国际货币在国际经济交易中发挥价值标准、支付手段和价值储藏三大职能，从私人交易和政府交易两个层次可细分为六种职能。一国货币充当国际货币需要满足可兑换性和强大的经济金融实力两个基本条件。
 
 ## 关键概念
-- **[国际货币(International Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：在国际经济交易中广泛使用的货币，发挥计价、结算、储备等功能
-- **[计价货币(Invoicing Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：国际贸易中用以表示商品、劳务价格的货币（私人交易/价值标准）
-- **[基准货币(Base Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：各国政府制定货币平价或对外汇率时使用的货币（政府交易/价值标准）
-- **[结算货币(Settlement Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：商品劳务交易中充当交易媒介的货币（私人交易/支付手段）
-- **[干预货币(Intervening Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：政府干预外汇市场时所使用的货币（政府交易/支付手段）
-- **[资产货币(Asset Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：私人部门作为财富形式持有的货币（私人交易/价值储藏）
-- **[储备货币(Reserve Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：官方储备资产中发挥储藏职能的货币（政府交易/价值储藏）
-- **[可兑换货币(Convertible Currency)](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/1-国际货币)**：可随时兑换为其他主权国家货币的货币，意味着不存在外汇管制
-- **[特别提款权(SDRs)](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/4-国际金融机构的作用)**：国际货币基金组织创设的复合货币，人为创设的超国家国际货币
+- **[国际货币(International Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：在国际经济交易中广泛使用的货币，发挥计价、结算、储备等功能
+- **[计价货币(Invoicing Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：国际贸易中用以表示商品、劳务价格的货币（私人交易/价值标准）
+- **[基准货币(Base Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：各国政府制定货币平价或对外汇率时使用的货币（政府交易/价值标准）
+- **[结算货币(Settlement Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：商品劳务交易中充当交易媒介的货币（私人交易/支付手段）
+- **[干预货币(Intervening Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：政府干预外汇市场时所使用的货币（政府交易/支付手段）
+- **[资产货币(Asset Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：私人部门作为财富形式持有的货币（私人交易/价值储藏）
+- **[储备货币(Reserve Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：官方储备资产中发挥储藏职能的货币（政府交易/价值储藏）
+- **[可兑换货币(Convertible Currency)](https://liangkx.com/explore/international-finance/01-international-currency)**：可随时兑换为其他主权国家货币的货币，意味着不存在外汇管制
+- **[特别提款权(SDRs)](https://liangkx.com/explore/international-finance/47-international-institutions)**：国际货币基金组织创设的复合货币，人为创设的超国家国际货币
 
 ## 研究证据
 **国际货币的六种职能体系（表1-1）**：
@@ -48,8 +48,8 @@ book: "国际金融学"
 > 国际货币可以由多种货币充当，如当今世界上美元、马克及日元均被视为国际货币。发挥计价货币职能的货币可以是交易双方中某一方国家的货币，也可以是交易双方以外的第三国的货币，或者是人为创设的货币单位（第5页）
 
 ## 跨章节链接
-- [国际结算与支付机制](https://liangkx.com/explore/国际金融学/PART 1｜国际支付体系/2-国际结算与支付机制)（本章后续）
-- [汇率](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/2-汇率的标价方法和种类)与基准货币的关系（第三章）
-- [国际储备](https://liangkx.com/explore/国际金融学/PART 9｜国际储备/1-国际储备概述)与储备货币（第九章）
-- [特别提款权](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/4-国际金融机构的作用)与国际货币体系（第十二章）
-- [布雷顿森林体系](https://liangkx.com/explore/国际金融学/PART 12｜国际货币体系/2-国际货币制度的演进)中美元作为国际货币的地位（第十二章）
+- [国际结算与支付机制](https://liangkx.com/explore/international-finance/02-settlement-mechanisms)（本章后续）
+- [汇率](https://liangkx.com/explore/international-finance/09-forex-pricing)与基准货币的关系（第三章）
+- [国际储备](https://liangkx.com/explore/international-finance/33-reserves-overview)与储备货币（第九章）
+- [特别提款权](https://liangkx.com/explore/international-finance/47-international-institutions)与国际货币体系（第十二章）
+- [布雷顿森林体系](https://liangkx.com/explore/international-finance/45-monetary-system-history)中美元作为国际货币的地位（第十二章）

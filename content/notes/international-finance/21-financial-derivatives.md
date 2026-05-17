@@ -12,19 +12,19 @@ book: "国际金融学"
 金融衍生产品是指其价值依赖于基础资产（如利率、汇率、股票、商品等）价格变动的金融工具，主要包括远期、期货、期权和互换四大类。金融衍生品交易在20世纪80年代后迅速发展，既为市场参与者提供了风险管理工具，也带来了新的金融风险。
 
 ## 跨章节链接
-- [金融期货与期权市场](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/3-金融期货与期权市场)是衍生产品的重要组成部分（本章第三节）
-- [跨国公司](https://liangkx.com/explore/国际金融学/PART 7｜跨国公司财务管理/1-跨国公司与跨国财务管理)运用衍生产品进行外汇风险管理（第七章）
-- [债务危机](https://liangkx.com/explore/国际金融学/PART 10｜国际资本流动/3-国际资本流动与国际债务危机)与信用衍生产品的关系（第十章）
-- [汇率制度](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/1-汇率制度)波动下衍生产品的发展（第十一章）
+- [金融期货与期权市场](https://liangkx.com/explore/international-finance/20-futures-options)是衍生产品的重要组成部分（本章第三节）
+- [跨国公司](https://liangkx.com/explore/international-finance/23-mnc-finance)运用衍生产品进行外汇风险管理（第七章）
+- [债务危机](https://liangkx.com/explore/international-finance/38-debt-crisis)与信用衍生产品的关系（第十章）
+- [汇率制度](https://liangkx.com/explore/international-finance/41-exchange-rate-regimes)波动下衍生产品的发展（第十一章）
 
 ## 关键概念
-- **[金融衍生产品(Financial Derivatives)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：价值依赖于基础资产价格变动的金融工具
-- **[远期合约(Forward Contract)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：买卖双方约定在未来某一时间按约定价格买卖某种资产的合约
-- **[期货合约(Futures Contract)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：在交易所交易的标准化远期合约
-- **[期权合约(Option Contract)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：买方拥有权利但没有义务执行交易的合约
-- **[互换(Swap)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：交易双方按约定条件交换一系列现金流的合约
-- **[利率互换(Interest Rate Swap)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：交换以不同利率计算的利息现金流的互换
-- **[货币互换(Currency Swap)](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/4-金融衍生产品)**：交换以不同货币计价的债务的互换
+- **[金融衍生产品(Financial Derivatives)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：价值依赖于基础资产价格变动的金融工具
+- **[远期合约(Forward Contract)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：买卖双方约定在未来某一时间按约定价格买卖某种资产的合约
+- **[期货合约(Futures Contract)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：在交易所交易的标准化远期合约
+- **[期权合约(Option Contract)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：买方拥有权利但没有义务执行交易的合约
+- **[互换(Swap)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：交易双方按约定条件交换一系列现金流的合约
+- **[利率互换(Interest Rate Swap)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：交换以不同利率计算的利息现金流的互换
+- **[货币互换(Currency Swap)](https://liangkx.com/explore/international-finance/21-financial-derivatives)**：交换以不同货币计价的债务的互换
 
 ## 研究证据
 **金融衍生品迅速发展的原因**：
