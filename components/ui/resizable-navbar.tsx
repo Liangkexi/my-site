@@ -37,8 +37,11 @@ export function NavBody({ children }: { children: React.ReactNode }) {
   return <div className="resizable-navbar__body">{children}</div>;
 }
 
+const stripSlash = (p: string) => (p !== "/" && p.endsWith("/") ? p.slice(0, -1) : p);
+
 export function NavItems({ items }: { items: NavItem[] }) {
   const pathname = usePathname();
+  const current = stripSlash(pathname);
 
   return (
     <ul className="resizable-navbar__items">
@@ -47,7 +50,7 @@ export function NavItems({ items }: { items: NavItem[] }) {
           <Link
             className="resizable-navbar__item"
             href={item.link}
-            data-active={pathname === item.link}
+            data-active={current === stripSlash(item.link)}
           >
             {item.name}
           </Link>

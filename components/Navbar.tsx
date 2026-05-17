@@ -67,7 +67,8 @@ export default function Navbar({ dark, onToggle }: NavbarProps) {
 
           <MobileNavMenu isOpen={isMobileMenuOpen} onClose={close}>
             {navItems.map((item) => {
-              const active = pathname === item.link;
+              const norm = (p: string) => (p !== "/" && p.endsWith("/") ? p.slice(0, -1) : p);
+              const active = norm(pathname) === norm(item.link);
               return (
                 <a
                   key={item.link}
