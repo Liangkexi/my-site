@@ -1,0 +1,45 @@
+---
+title: "第一节 外汇市场概述"
+slug: "forex-market"
+order: 11
+part: "外汇市场"
+book: "国际金融学"
+---
+
+# 第一节 外汇市场概述
+
+## 核心论点
+外汇市场是进行外汇买卖和调剂外汇供求的交易场所和网络，是现代国际金融市场体系的重要组成部分。即期外汇交易和远期外汇交易是外汇市场中最基本的交易方式。
+
+## 跨章节链接
+- [外汇](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/1-外汇和汇率的概念)与[汇率](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/2-汇率的标价方法和种类)的基本概念（第三章）
+- [远期汇率](https://liangkx.com/explore/国际金融学/PART 3｜外汇与汇率/2-汇率的标价方法和种类)与[利率平价说](https://liangkx.com/explore/国际金融学/PART 5｜汇率决定理论/2-利率平价说)的联系（第五章）
+- [金融期货](https://liangkx.com/explore/国际金融学/PART 6｜国际金融市场/3-金融期货与期权市场)与远期外汇交易的区别（第六章）
+- [外汇风险](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)管理（第七章）
+- [外汇市场干预](https://liangkx.com/explore/国际金融学/PART 11｜汇率政策/2-汇率水平的管理)作为汇率政策工具（第十一章）
+
+## 关键概念
+- **[外汇市场(Foreign Exchange Market)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：进行外汇买卖和调剂外汇供求的交易场所和网络
+- **[即期外汇交易(Spot Transaction)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：买卖双方成交后立即或在两个营业日内办理交割的外汇业务
+- **[远期外汇交易(Forward Transaction)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：买卖双方签订合同约定在未来某一时间办理交割的外汇业务
+- **[标准交割日](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：成交后第二个营业日交割，大部分即期交易采用
+- **[隔日交割](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：成交后第一个营业日交割（如加拿大因时差原因）
+- **[当日交割](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：成交当日进行交割（如香港外汇市场美元兑港币T/T）
+- **[价值抵偿原则](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：外汇交易合同双方必须在同一时间进行交割，以免任何一方因交割不同时而蒙受损失
+- **[升水(Premium)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：远期汇率高于即期汇率
+- **[贴水(Discount)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：远期汇率低于即期汇率
+- **[套汇(Arbitrage)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：利用不同外汇市场汇率差异低价买入高价卖出以获取利润
+- **[套利(Interest Arbitrage)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：利用两国利率差异，将资金从低利率国转移到高利率国以获取利差收益
+- **[外汇风险(Exchange Rate Risk)](https://liangkx.com/explore/国际金融学/PART 4｜外汇市场/1-外汇市场概述)**：因汇率变动给外汇持有者或外汇交易者带来的损失可能性
+
+## 研究证据
+**即期交割日规则**：
+1. 交割日必须是两种货币共同的营业日
+2. 遵循"价值抵偿原则"，双方同时交割
+3. 成交后两日若非营业日则向后顺延
+
+**外汇市场的参与者**：
+- 外汇银行（为客户提供外汇交易服务）
+- 外汇经纪人（撮合交易）
+- 中央银行（干预市场）
+- 客户（进出口商、投资者等）
