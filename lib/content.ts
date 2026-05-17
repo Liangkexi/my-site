@@ -41,14 +41,9 @@ function loadData(): Record<ContentType, ContentItem[]> {
   // not linger because lib/content-data.json is intentionally gitignored.
   if (process.env.NODE_ENV === "production") {
     try {
-      // Use fs.readFileSync instead of require() so esbuild does NOT bundle
-      // content-data.json into the Cloudflare Worker (keeps the Worker small).
-      // At runtime on Cloudflare the fs call fails and we fall through;
-      // that's fine because all pages are force-static and pre-rendered.
-      const fs   = require("fs")   as typeof import("fs");
-      const path = require("path") as typeof import("path");
-      const raw  = fs.readFileSync(path.join(process.cwd(), "lib", "content-data.json"), "utf-8");
-      return JSON.parse(raw) as Record<ContentType, ContentItem[]>;
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const json = require("./content-data.json") as Record<ContentType, ContentItem[]>;
+      return json;
     } catch { /* fall through */ }
   }
 
