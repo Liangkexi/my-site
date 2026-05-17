@@ -41,9 +41,14 @@ function loadData(): Record<ContentType, ContentItem[]> {
   // not linger because lib/content-data.json is intentionally gitignored.
   if (process.env.NODE_ENV === "production") {
     try {
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const json = require("./content-data.json") as Record<ContentType, ContentItem[]>;
-      return json;
+      // Use fs.readFileSync instead of require() so esbuild does NOT bundle
+      // content-data.json into the Cloudflare Worker (keeps the Worker small).
+      // At runtime on Cloudflare the fs call fails and we fall through;
+      // that's fine because all pages are force-static and pre-rendered.
+      const fs   = require("fs")   as typeof import("fs");
+      const path = require("path") as typeof import("path");
+      const raw  = fs.readFileSync(path.join(process.cwd(), "lib", "content-data.json"), "utf-8");
+      return JSON.parse(raw) as Record<ContentType, ContentItem[]>;
     } catch { /* fall through */ }
   }
 
@@ -200,22 +205,13 @@ export function getContentByType(type: ContentType): ContentItem[] {
 export function findContentItem(fullSlug: string): ContentItem | null {
   for (const type of Object.keys(data) as ContentType[]) {
     const found = data[type].find((i) => i.slug === fullSlug);
-    if (found) return getContentItem(type, found.slug);
+    if (found) return found;
   }
   return null;
 }
 
 export function getContentItem(type: ContentType, slug: string): ContentItem | null {
-  const item = data[type]?.find((i) => i.slug === slug) ?? null;
-  if (!item || item.html) return item;
-  // Load HTML from the pre-built file (build-time only; no-op on Cloudflare edge)
-  try {
-    const fs   = require("fs")   as typeof import("fs");
-    const path = require("path") as typeof import("path");
-    const htmlFile = path.join(process.cwd(), "public/_content", type, ...slug.split("/")) + ".html";
-    item.html = fs.readFileSync(htmlFile, "utf-8");
-  } catch { /* file unavailable at runtime — static pages don't need it */ }
-  return item;
+  return data[type]?.find((i) => i.slug === slug) ?? null;
 }
 
 /**
