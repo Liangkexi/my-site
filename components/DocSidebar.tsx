@@ -126,7 +126,7 @@ export default function DocSidebar({
               data-active={currentSlug === page.slug}
               onClick={saveScroll}
             >
-              {page.isIndex ? "概览" : titleFromSlug(page.slug)}
+              {page.isIndex ? "概览" : (page.title || titleFromSlug(page.slug))}
             </Link>
           </li>
         ))}
@@ -146,7 +146,7 @@ export default function DocSidebar({
                 aria-expanded={open}
               >
                 <span className="doc-sidebar__caret" aria-hidden="true">▸</span>
-                <span className="doc-sidebar__section-title">{section.slug}</span>
+                <span className="doc-sidebar__section-title">{section.title}</span>
               </button>
 
               {open && (
@@ -159,7 +159,7 @@ export default function DocSidebar({
                         data-active={currentSlug === page.slug}
                         onClick={saveScroll}
                       >
-                        {titleFromSlug(page.slug)}
+                        {page.title || titleFromSlug(page.slug)}
                       </Link>
                     </li>
                   ))}

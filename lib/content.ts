@@ -17,6 +17,7 @@ export interface FrontMatter {
   tags?: string[];
   published?: boolean;
   order?: number;
+  part?: string;
   links?: { github?: string; demo?: string; figma?: string };
   location?: string;
   photos?: string[];
@@ -119,6 +120,11 @@ function loadData(): Record<ContentType, ContentItem[]> {
               sectionTitle: currentSection.title,
             }),
           });
+          // For flat files with a 'part' frontmatter field, use it as section grouping
+          if (!isIndex && !currentSection && item.part) {
+            item.sectionSlug = item.part;
+            item.sectionTitle = item.part;
+          }
           if (isIndex || item.published !== false) out.push(item);
         } else if (stat.isDirectory()) {
           if (!currentSection) {
@@ -223,6 +229,8 @@ export function getProjectPages(parentSlug: string, type: ContentType): ContentI
     .sort((a, b) => {
       if (a.isIndex) return -1;
       if (b.isIndex) return 1;
+      // Use numeric order field when both items have it (flat structure with part grouping)
+      if (a.order !== undefined && b.order !== undefined) return a.order - b.order;
       const aSec = a.sectionSlug ?? "";
       const bSec = b.sectionSlug ?? "";
       if (aSec !== bSec) return aSec.localeCompare(bSec, undefined, { numeric: true });
