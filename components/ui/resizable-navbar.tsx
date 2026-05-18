@@ -68,7 +68,6 @@ export function NavbarLogo() {
   return (
     <Link className="resizable-navbar__logo" href="/" aria-label="Liang home">
       <img className="resizable-navbar__logo-avatar" src="/images/avatar.jpg" alt="" aria-hidden="true" />
-      <span className="resizable-navbar__logo-text">Liang</span>
     </Link>
   );
 }
