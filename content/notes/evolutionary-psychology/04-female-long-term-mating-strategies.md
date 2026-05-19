@@ -15,10 +15,10 @@ book: "进化心理学"
 - 女性的择偶偏好并非盲目运作，它们依赖背景因素：女性自身拥有资源的多寡、其他女性的竞争（择偶模仿）、时间背景（长期关系和短期关系）、女性自身的配偶价值。女性的择偶偏好对实际择偶行为有可测量的影响，具有跨文化的普遍性。
 
 ## 关键概念
-- **[亲代投资与性选择](https://liangkx.com/explore/evolutionary-psychology/female-long-term-mating-strategies)**：生物学性别以生殖细胞（配子）大小定义。雌性配子较大，养分较多，较为固定；雄性配子尺寸小，流动性更强。男性每小时可产生约1200万个精子，女性一生中产生的卵子约400个。女性在受孕、怀孕和哺乳中付出巨大的亲代投资，怀孕和哺乳过程都在雌性体内完成。拥有宝贵资源的一方不会随便将之赠与他人，因此进化选择青睐挑剔的女性祖先。
-- **[择偶偏好的进化心理机制](https://liangkx.com/explore/evolutionary-psychology/female-long-term-mating-strategies)**：女性需要评估候选对象的未来潜力，而不仅仅是当前状态。女性还必须学会鉴别和评估线索，识别男性的欺骗行为（如假装地位或虚假承诺），并整合所有信息特征进行权衡。
-- **[结构性资源缺乏假设](https://liangkx.com/explore/evolutionary-psychology/female-long-term-mating-strategies)**：一种替代理论，认为女性看重男性资源是因为女性被排除在权力之外，这是她们获取资源的主要途径。然而，跨文化研究证据推翻了这个假设——高收入、高地位女性反而更加看重配偶的经济前景和社会地位。
-- **[择偶模仿（Mate Copying）](https://liangkx.com/explore/evolutionary-psychology/female-long-term-mating-strategies)**：生物个体的择偶行为受到其他个体择偶偏好的影响。当一个男人被一群女性簇拥，尤其是当这些女性是美女时，其他女性对他的吸引力评价比独自站立时更高。只有影片中的女性对某男性有兴趣时，择偶模仿效应才会发生。
+- **[亲代投资与性选择](https://liangkx.com/explore/evolutionary-psychology/04-female-long-term-mating-strategies)**：生物学性别以生殖细胞（配子）大小定义。雌性配子较大，养分较多，较为固定；雄性配子尺寸小，流动性更强。男性每小时可产生约1200万个精子，女性一生中产生的卵子约400个。女性在受孕、怀孕和哺乳中付出巨大的亲代投资，怀孕和哺乳过程都在雌性体内完成。拥有宝贵资源的一方不会随便将之赠与他人，因此进化选择青睐挑剔的女性祖先。
+- **[择偶偏好的进化心理机制](https://liangkx.com/explore/evolutionary-psychology/04-female-long-term-mating-strategies)**：女性需要评估候选对象的未来潜力，而不仅仅是当前状态。女性还必须学会鉴别和评估线索，识别男性的欺骗行为（如假装地位或虚假承诺），并整合所有信息特征进行权衡。
+- **[结构性资源缺乏假设](https://liangkx.com/explore/evolutionary-psychology/04-female-long-term-mating-strategies)**：一种替代理论，认为女性看重男性资源是因为女性被排除在权力之外，这是她们获取资源的主要途径。然而，跨文化研究证据推翻了这个假设——高收入、高地位女性反而更加看重配偶的经济前景和社会地位。
+- **[择偶模仿（Mate Copying）](https://liangkx.com/explore/evolutionary-psychology/04-female-long-term-mating-strategies)**：生物个体的择偶行为受到其他个体择偶偏好的影响。当一个男人被一群女性簇拥，尤其是当这些女性是美女时，其他女性对他的吸引力评价比独自站立时更高。只有影片中的女性对某男性有兴趣时，择偶模仿效应才会发生。
 
 ## 研究证据
 - **37种文化跨文化择偶研究（Buss et al., 1990）**：涉及六大洲五个岛屿、37种文化、10,047名受访者。受访者对18项个人特征评分。结果表明，女性对配偶经济前景的重视程度约为男性的两倍。日本女性对经济资源的评分比男性高出150%，荷兰女性比男性高出36%。女性对可靠性品质的平均评分为2.69（满分为3），对情绪稳定性的平均评分为2.68。

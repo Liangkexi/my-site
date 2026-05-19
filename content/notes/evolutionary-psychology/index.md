@@ -54,30 +54,30 @@ published: true
 
 《进化心理学》是这一领域的权威教材，被世界各地的大学广泛采用。第4版收录了数百条最新文献，新增了道德、情绪等研究主题。它为心理学提供了统括性的理论框架——正如平克所言，"在对人的研究中，可能只有进化心理学才能提供比较连贯的理论。"
 
-[第1章 导致进化心理学出现的科学运动](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)
+[第1章 导致进化心理学出现的科学运动](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)
 
-[第2章 作为新科学的进化心理学](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)
+[第2章 作为新科学的进化心理学](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)
 
-[第3章 克服恶劣的自然条件——人类的生存问题](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)
+[第3章 克服恶劣的自然条件——人类的生存问题](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)
 
-[第4章 女性的长期择偶策略](https://liangkx.com/explore/evolutionary-psychology/female-long-term-mating-strategies)
+[第4章 女性的长期择偶策略](https://liangkx.com/explore/evolutionary-psychology/04-female-long-term-mating-strategies)
 
-[第5章 男性的长期择偶策略](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)
+[第5章 男性的长期择偶策略](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)
 
-[第6章 短期的性关系策略](https://liangkx.com/explore/evolutionary-psychology/short-term-sexual-strategies)
+[第6章 短期的性关系策略](https://liangkx.com/explore/evolutionary-psychology/06-short-term-sexual-strategies)
 
-[第7章 亲代抚育问题](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)
+[第7章 亲代抚育问题](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)
 
-[第8章 亲属关系问题](https://liangkx.com/explore/evolutionary-psychology/kinship-problems)
+[第8章 亲属关系问题](https://liangkx.com/explore/evolutionary-psychology/08-kinship-problems)
 
-[第9章 合作联盟](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)
+[第9章 合作联盟](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)
 
-[第10章 攻击与战争](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)
+[第10章 攻击与战争](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)
 
-[第11章 两性冲突](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)
+[第11章 两性冲突](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)
 
-[第12章 地位、声望和社会等级](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)
+[第12章 地位、声望和社会等级](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)
 
-[第13章 走向统一的进化心理学](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)
+[第13章 走向统一的进化心理学](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)
 
-[术语表](https://liangkx.com/explore/evolutionary-psychology/key-terms)
+[术语表](https://liangkx.com/explore/evolutionary-psychology/00-key-terms)

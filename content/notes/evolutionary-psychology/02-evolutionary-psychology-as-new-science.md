@@ -18,12 +18,12 @@ book: "进化心理学"
 - 学习与进化不是对立的解释；学习需要进化形成的特定心理机制作为基础，进化的学习机制在本质上是特殊性的
 
 ## 关键概念
-- **[进化形成的心理机制](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**：有机体内在拥有的加工程序，具有六项特性：（1）因其在进化历史中解决了反复出现的特定生存或繁殖问题而呈现当前形式；（2）被设计成只接收一小部分特定的输入信息（如眼睛只接收可见光谱中特定信息）；（3）输入信息向有机体预示所面临的适应性问题（过程通常无意识）；（4）根据"如果，那么"决策规则将输入信息转换为输出；（5）输出可能是生理活动、其他心理机制所需的信息或外显行为；（6）输出直接指向特定适应性问题的解决方案（但不一定总能成功，只是在远古环境中平均而言更有效）
-- **[适应器](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**：通过自然选择形成的、遗传性的、能够稳定发展出来的特性，在进化过程中比群体中存在的其他设计特征更有利于解决生存和繁殖问题。评估标准包括有效性、经济性、精确性和可靠性。并非所有适应器在出生时就显现（如走路、乳房发育），但必须在正常环境中才能恰当地发展
-- **[适应进化的环境](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**（EEA）：在适应器进化阶段中促使适应器形成的选择压力的统计学总和，不是特定的时间或地点，而是指塑造适应器的选择力量。每种适应器都有其独一无二的EEA
-- **[副产物](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**：适应器的副产物，不能解决适应性问题，不具备功能性设计特征，碰巧和适应器结合在一起（如肚脐眼是脐带的副产物，电灯泡散发的热量是其照明设计的副产物）
-- **[亲代投资理论](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**：特里弗斯的中级水平进化理论，认为对后代投资较多的性别在择偶时更挑剔，投资较少的性别则表现出更强的同性竞争。该理论已得到跨物种证据支持，包括尖嘴鱼等"性别角色倒错"物种
-- **[组合爆炸](https://liangkx.com/explore/evolutionary-psychology/evolutionary-psychology-as-new-science)**：如果领域一般性的程序没有专门化的加工规则，在任何给定情况下可能选项数量将呈指数级增长——两分钟内行为选择组合达10,000种，三分钟达100万种。这证明完成具体任务必须有特殊程序将反应限定在有限范围内
+- **[进化形成的心理机制](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**：有机体内在拥有的加工程序，具有六项特性：（1）因其在进化历史中解决了反复出现的特定生存或繁殖问题而呈现当前形式；（2）被设计成只接收一小部分特定的输入信息（如眼睛只接收可见光谱中特定信息）；（3）输入信息向有机体预示所面临的适应性问题（过程通常无意识）；（4）根据"如果，那么"决策规则将输入信息转换为输出；（5）输出可能是生理活动、其他心理机制所需的信息或外显行为；（6）输出直接指向特定适应性问题的解决方案（但不一定总能成功，只是在远古环境中平均而言更有效）
+- **[适应器](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**：通过自然选择形成的、遗传性的、能够稳定发展出来的特性，在进化过程中比群体中存在的其他设计特征更有利于解决生存和繁殖问题。评估标准包括有效性、经济性、精确性和可靠性。并非所有适应器在出生时就显现（如走路、乳房发育），但必须在正常环境中才能恰当地发展
+- **[适应进化的环境](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**（EEA）：在适应器进化阶段中促使适应器形成的选择压力的统计学总和，不是特定的时间或地点，而是指塑造适应器的选择力量。每种适应器都有其独一无二的EEA
+- **[副产物](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**：适应器的副产物，不能解决适应性问题，不具备功能性设计特征，碰巧和适应器结合在一起（如肚脐眼是脐带的副产物，电灯泡散发的热量是其照明设计的副产物）
+- **[亲代投资理论](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**：特里弗斯的中级水平进化理论，认为对后代投资较多的性别在择偶时更挑剔，投资较少的性别则表现出更强的同性竞争。该理论已得到跨物种证据支持，包括尖嘴鱼等"性别角色倒错"物种
+- **[组合爆炸](https://liangkx.com/explore/evolutionary-psychology/02-evolutionary-psychology-as-new-science)**：如果领域一般性的程序没有专门化的加工规则，在任何给定情况下可能选项数量将呈指数级增长——两分钟内行为选择组合达10,000种，三分钟达100万种。这证明完成具体任务必须有特殊程序将反应限定在有限范围内
 
 ## 研究证据
 - 格莱莫（Grammer, 1996）的单身酒吧研究：男性更可能接触正处排卵期（未服避孕药）的女性；处于排卵期的女性会通过着装（紧身、暴露的衣服、较短的裙子）主动传达更多性信号；与月经周期其他时段相比，处于排卵期的女性会引发更多的性接触（Gangestad et al., 2004）

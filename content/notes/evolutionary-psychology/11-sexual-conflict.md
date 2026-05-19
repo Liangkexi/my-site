@@ -16,12 +16,12 @@ book: "进化心理学"
 - 两性冲突涉及择偶行为的几乎全部环节：性行为的时间与条件、侵犯与防御、嫉妒、监视、资源分配
 
 ## 关键概念
-- **[策略冲突理论](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：若一方想用某种策略达成目标，另一方却阻挠该策略的实施，冲突即产生。两性冲突不同于同性冲突——后者源于争夺相同资源，前者源于性策略相互干扰
-- **[错误管理理论](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：认知偏差具有适应功能。两种错误类型的代价不对称。男性进化出夸大女性性意向的偏差，不错过性接触机会；女性进化出承诺怀疑偏差 (commitment skepticism bias)，防止被虚情假意的男性欺骗 (Haselton & Buss, 2000)
-- **[性抑制](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：女性进行性挑逗同时又不愿发生性关系的策略。功能包括：筛选愿意付出承诺的优质男性；提高自身配偶价值（物以稀为贵）；操纵男性对配偶价值的感知；激励男性将之视为永久配偶而非临时性伴侣
-- **[配偶剥夺假设](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：当男性无法通过常规途径吸引女性时，可能采取性侵犯策略。但研究结果与预测不一致——自我感知择偶成功率更高的男性在性侵犯指标上得分也更高 (Lalumiere et al., 1996)
-- **[精子竞争假设](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：当男性发现或怀疑伴侣出轨时，可能采取强奸作为精子竞争的一种形式。伴侣出轨线索与性胁迫手段使用率呈正相关 (Goetz & Shackelford, 2009)
-- **[强制假设](https://liangkx.com/explore/evolutionary-psychology/sexual-conflict)**：男性使用暴力和威胁手段限制配偶自由，降低其出轨可能性。极端暴力是一种高风险威慑策略，用来防止妻子离开 (Wilson & Daly, 1996)
+- **[策略冲突理论](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：若一方想用某种策略达成目标，另一方却阻挠该策略的实施，冲突即产生。两性冲突不同于同性冲突——后者源于争夺相同资源，前者源于性策略相互干扰
+- **[错误管理理论](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：认知偏差具有适应功能。两种错误类型的代价不对称。男性进化出夸大女性性意向的偏差，不错过性接触机会；女性进化出承诺怀疑偏差 (commitment skepticism bias)，防止被虚情假意的男性欺骗 (Haselton & Buss, 2000)
+- **[性抑制](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：女性进行性挑逗同时又不愿发生性关系的策略。功能包括：筛选愿意付出承诺的优质男性；提高自身配偶价值（物以稀为贵）；操纵男性对配偶价值的感知；激励男性将之视为永久配偶而非临时性伴侣
+- **[配偶剥夺假设](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：当男性无法通过常规途径吸引女性时，可能采取性侵犯策略。但研究结果与预测不一致——自我感知择偶成功率更高的男性在性侵犯指标上得分也更高 (Lalumiere et al., 1996)
+- **[精子竞争假设](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：当男性发现或怀疑伴侣出轨时，可能采取强奸作为精子竞争的一种形式。伴侣出轨线索与性胁迫手段使用率呈正相关 (Goetz & Shackelford, 2009)
+- **[强制假设](https://liangkx.com/explore/evolutionary-psychology/11-sexual-conflict)**：男性使用暴力和威胁手段限制配偶自由，降低其出轨可能性。极端暴力是一种高风险威慑策略，用来防止妻子离开 (Wilson & Daly, 1996)
 
 ## 研究证据
 - **性意向推断偏差**：男性倾向于将中性线索（友善、微笑）解读为性意向。98名男大学生和102名女大学生观看教授与女学生互动录像，男性比女性更倾向于认为学生在诱惑教授 (Abbey, 1982)。巴西和美国跨文化研究均证实男性比女性推断出更多性意向 (DeSouza et al., 1992)

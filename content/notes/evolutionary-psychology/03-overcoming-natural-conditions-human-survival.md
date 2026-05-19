@@ -18,21 +18,21 @@ book: "进化心理学"
 - 自杀可能是一种进化形成的心理机制的产物：当个体广义适合度能力急剧下降（成为家庭负担、丧失繁殖机会、健康状况恶化）时自杀念头增加
 
 ## 关键概念
-- **[常识生物学](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：普遍存在于人类中的直觉生物学认知适应器，包括对不同物种的分类、认为每个物种有内在"本质"、理解生物的功能。学龄前儿童已具有，且并非来自父母的明确教导。帮助解决哪些东西有营养、哪些有毒等生存问题
-- **[新食物恐惧症](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：对陌生食物的强烈反感，是一种避免摄入潜在致命毒素的适应器。老鼠只以小剂量单独品尝陌生食物，通过排除法确定问题食物；人类在父母哄骗下才愿尝试陌生食物，体现饮食活动的社会性
-- **[厌恶的疾病预防假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：认为厌恶情绪是一种进化而来的疾病防御机制，防止细菌入侵、保护人体免受疾病侵扰。粪便和身体排泄物是跨文化最普遍的厌恶对象（占25%），女性比男性有更强的厌恶反应
-- **[胚胎保护假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：普罗非特（Profet, 1992）提出，妊娠病（晨吐）是适应器而非疾病，阻止孕妇摄入致畸因子。证据：（1）孕妇讨厌的食物富含毒素；（2）妊娠病高峰期（受孕后2-4周至第14周）与胎儿器官发育敏感期吻合；（3）无妊娠病孕妇的自然流产率是症状孕妇的近三倍（10.4% vs 3.8%）
-- **[烹饪假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：兰厄姆提出，烹饪技术是现代人类出现的关键因素之一——烹饪软化纤维质食物、更充分释放能量、杀灭微生物。如果该假说正确，烹饪应在160-190万年前被广泛采用（与脑容量增长时间吻合），但明确用火证据最早约20万年前，存在争议
-- **[抗菌假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：香料能杀死或抑制食物中微生物的生长。气候越炎热地区食物中香料越多（印度平均9种，挪威平均2种），荤菜中香料多于素菜，因为未冷藏的肉更易滋生细菌。最有效的抗菌香料：洋葱、大蒜、多香果和牛至
-- **[食果副产物假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：人类对酒精的迷恋不是适应器本身，而是喜欢成熟果实（含低浓度乙醇约0.6%）这一适应行为的副产物；现代社会高浓度酒类与进化形成的食果机制相遇导致了适应不良
-- **[狩猎假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：男性狩猎推动了制造工具、使用工具、脑容量增长和复杂语言能力等人类进化关键变化。供养假说认为狩猎使男性可通过提供肉食对子女进行巨大亲代投资（灵长目中独一无二）；还解释了牢固的男性同盟和互惠式社会交换
-- **[炫耀假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：霍克斯（Hawkes, 1991）提出，男性狩猎主要是为了通过分享肉食获得社会地位和性交机会，而非供养家庭。证据：阿齐人男性狩猎所得84%与核心家庭外成员分享，优秀猎人拥有更多性伴侣，子女存活率更高
-- **[采集假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：认为女性的采集活动才是人类进化的关键因素，石器工具最初为挖掘采集植物而发明。但该假说无法解释劳动性别分工、男性对子女的巨大投资、人类肠道结构为消化肉类而专门化等现象
-- **[热带大草原假说](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：奥里恩斯提出，自然选择塑造了人类对资源丰富且环境安全的居所偏好。三阶段理论：选择（留下还是离开）→搜集信息（评估资源和危险）→开发（长时间停留的利弊权衡）。人类普遍偏好"大草原式样"的树（树冠稠密适中、树干分叉接近地面）
-- **[错误管理理论](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：在不确定条件下，当不同错误的代价不对称时，自然选择会塑造出"适应性偏差"，使人们倾向于犯代价较小的错误
-- **[进化而来的导航理论](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：人类进化出专门适应器处理导航问题。"俯视错觉"——从高处往下看时对垂直距离的估计比从下往上看时多32%——是一种防止从高处跌落的适应性偏差
-- **[衰老的基因多效性理论](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：一个基因同时拥有多种效应——在生命早期带来繁殖优势而晚年产生负面代价（如促进睾丸激素分泌的基因增强年轻时的求偶竞争力但增加老年时前列腺癌风险）。由于晚年的选择力量微弱，这些基因得以被选择保留，解释了全身器官同时退化的衰老现象
-- **[自杀的进化理论](https://liangkx.com/explore/evolutionary-psychology/overcoming-natural-conditions-human-survival)**：卡坦扎罗提出，当个体实现广义适合度的能力急剧下降时（成为家庭负担、健康状况恶化、对异性关系不抱希望、经济前景差），自杀行为最有可能发生。20-30岁男性自杀率是女性6倍，70岁后是7倍（Kruger & Nesse, 2006）
+- **[常识生物学](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：普遍存在于人类中的直觉生物学认知适应器，包括对不同物种的分类、认为每个物种有内在"本质"、理解生物的功能。学龄前儿童已具有，且并非来自父母的明确教导。帮助解决哪些东西有营养、哪些有毒等生存问题
+- **[新食物恐惧症](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：对陌生食物的强烈反感，是一种避免摄入潜在致命毒素的适应器。老鼠只以小剂量单独品尝陌生食物，通过排除法确定问题食物；人类在父母哄骗下才愿尝试陌生食物，体现饮食活动的社会性
+- **[厌恶的疾病预防假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：认为厌恶情绪是一种进化而来的疾病防御机制，防止细菌入侵、保护人体免受疾病侵扰。粪便和身体排泄物是跨文化最普遍的厌恶对象（占25%），女性比男性有更强的厌恶反应
+- **[胚胎保护假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：普罗非特（Profet, 1992）提出，妊娠病（晨吐）是适应器而非疾病，阻止孕妇摄入致畸因子。证据：（1）孕妇讨厌的食物富含毒素；（2）妊娠病高峰期（受孕后2-4周至第14周）与胎儿器官发育敏感期吻合；（3）无妊娠病孕妇的自然流产率是症状孕妇的近三倍（10.4% vs 3.8%）
+- **[烹饪假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：兰厄姆提出，烹饪技术是现代人类出现的关键因素之一——烹饪软化纤维质食物、更充分释放能量、杀灭微生物。如果该假说正确，烹饪应在160-190万年前被广泛采用（与脑容量增长时间吻合），但明确用火证据最早约20万年前，存在争议
+- **[抗菌假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：香料能杀死或抑制食物中微生物的生长。气候越炎热地区食物中香料越多（印度平均9种，挪威平均2种），荤菜中香料多于素菜，因为未冷藏的肉更易滋生细菌。最有效的抗菌香料：洋葱、大蒜、多香果和牛至
+- **[食果副产物假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：人类对酒精的迷恋不是适应器本身，而是喜欢成熟果实（含低浓度乙醇约0.6%）这一适应行为的副产物；现代社会高浓度酒类与进化形成的食果机制相遇导致了适应不良
+- **[狩猎假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：男性狩猎推动了制造工具、使用工具、脑容量增长和复杂语言能力等人类进化关键变化。供养假说认为狩猎使男性可通过提供肉食对子女进行巨大亲代投资（灵长目中独一无二）；还解释了牢固的男性同盟和互惠式社会交换
+- **[炫耀假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：霍克斯（Hawkes, 1991）提出，男性狩猎主要是为了通过分享肉食获得社会地位和性交机会，而非供养家庭。证据：阿齐人男性狩猎所得84%与核心家庭外成员分享，优秀猎人拥有更多性伴侣，子女存活率更高
+- **[采集假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：认为女性的采集活动才是人类进化的关键因素，石器工具最初为挖掘采集植物而发明。但该假说无法解释劳动性别分工、男性对子女的巨大投资、人类肠道结构为消化肉类而专门化等现象
+- **[热带大草原假说](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：奥里恩斯提出，自然选择塑造了人类对资源丰富且环境安全的居所偏好。三阶段理论：选择（留下还是离开）→搜集信息（评估资源和危险）→开发（长时间停留的利弊权衡）。人类普遍偏好"大草原式样"的树（树冠稠密适中、树干分叉接近地面）
+- **[错误管理理论](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：在不确定条件下，当不同错误的代价不对称时，自然选择会塑造出"适应性偏差"，使人们倾向于犯代价较小的错误
+- **[进化而来的导航理论](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：人类进化出专门适应器处理导航问题。"俯视错觉"——从高处往下看时对垂直距离的估计比从下往上看时多32%——是一种防止从高处跌落的适应性偏差
+- **[衰老的基因多效性理论](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：一个基因同时拥有多种效应——在生命早期带来繁殖优势而晚年产生负面代价（如促进睾丸激素分泌的基因增强年轻时的求偶竞争力但增加老年时前列腺癌风险）。由于晚年的选择力量微弱，这些基因得以被选择保留，解释了全身器官同时退化的衰老现象
+- **[自杀的进化理论](https://liangkx.com/explore/evolutionary-psychology/03-overcoming-natural-conditions-human-survival)**：卡坦扎罗提出，当个体实现广义适合度的能力急剧下降时（成为家庭负担、健康状况恶化、对异性关系不抱希望、经济前景差），自杀行为最有可能发生。20-30岁男性自杀率是女性6倍，70岁后是7倍（Kruger & Nesse, 2006）
 
 ## 研究证据
 - 甜味偏好与苦味回避的跨物种一致性：人类新生儿偏好甜味液体，哈扎地区蜂蜜最受欢迎（Berbesque & Marlow, 2009）；人和老鼠都根据内部生理状态（缺水、缺热量、缺盐分）适应性调节进食（Rozin & Schull, 1988）

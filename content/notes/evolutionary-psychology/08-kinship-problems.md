@@ -17,11 +17,11 @@ book: "进化心理学"
 - (外)祖母假设认为，女性在更年期后继续存活是一种策略，将资源投到孙辈身上来提高广义适合度
 
 ## 关键概念
-- **[哈密尔顿规则](https://liangkx.com/explore/evolutionary-psychology/kinship-problems)**：c < br，c为利他者的代价，b为受惠者的收益，r为遗传相关度；自然选择青睐按遗传相关度提供相应比例帮助的适应器
-- **[广义适合度](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：个体自身的繁殖成功，加上它对亲属繁殖成功的影响并乘上遗传相关系数
-- **[可进化性限制](https://liangkx.com/explore/evolutionary-psychology/kinship-problems)**：只有满足哈密尔顿规则的基因才能得以进化，违反该规则的基因会被自然选择淘汰
-- **[情感亲近度](https://liangkx.com/explore/evolutionary-psychology/kinship-problems)**：遗传相关度越高，主观亲近度越高；即使控制住居住距离和联络频率后，遗传相关度和亲近度的相关系数仍高达0.50
-- **[(外)祖母假设](https://liangkx.com/explore/evolutionary-psychology/kinship-problems)**：更年期后女性通过隔代投资（帮助、照料、食物、智慧）提高广义适合度
+- **[哈密尔顿规则](https://liangkx.com/explore/evolutionary-psychology/08-kinship-problems)**：c < br，c为利他者的代价，b为受惠者的收益，r为遗传相关度；自然选择青睐按遗传相关度提供相应比例帮助的适应器
+- **[广义适合度](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：个体自身的繁殖成功，加上它对亲属繁殖成功的影响并乘上遗传相关系数
+- **[可进化性限制](https://liangkx.com/explore/evolutionary-psychology/08-kinship-problems)**：只有满足哈密尔顿规则的基因才能得以进化，违反该规则的基因会被自然选择淘汰
+- **[情感亲近度](https://liangkx.com/explore/evolutionary-psychology/08-kinship-problems)**：遗传相关度越高，主观亲近度越高；即使控制住居住距离和联络频率后，遗传相关度和亲近度的相关系数仍高达0.50
+- **[(外)祖母假设](https://liangkx.com/explore/evolutionary-psychology/08-kinship-problems)**：更年期后女性通过隔代投资（帮助、照料、食物、智慧）提高广义适合度
 
 ## 研究证据
 - **地松鼠警报行为**（Sherman, 1977, 1981）：无子女但有亲属在旁的雌性地松鼠仍会发出警报，支持广义适合度假设而非仅亲代投资假设；雌性地松鼠会帮助遗传亲属但不会帮助非亲属成员

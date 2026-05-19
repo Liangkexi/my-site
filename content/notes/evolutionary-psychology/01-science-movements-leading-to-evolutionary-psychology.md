@@ -16,14 +16,14 @@ book: "进化心理学"
 - 进化论不等于基因决定论——人类行为的发生需要进化形成的适应器和激发适应器发展与活动的环境输入两个成分的交互作用
 
 ## 关键概念
-- **[自然选择](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：包含变异、遗传和选择三个要素的进化机制。生物体以各种方式发生变异（翅膀长度、骨骼大小、格斗能力等），只有可遗传的变异才能在进化中发挥影响，拥有特定遗传特征的个体能产生更多后代。自然选择是形成适应性的惟一已知原因，但不是引起演变的惟一原因。（第5-7页）
-- **[性选择](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：达尔文提出的第二进化理论，包含两种运作方式。同性竞争：同性别个体之间争夺与异性交配机会的竞争（如两只雄鹿用犄角打架）。异性选择（亦称雌性选择）：某一性别成员一致偏好异性的某些特征，拥有这些特征的个体获得更多配偶。成功解释了孔雀华丽羽毛等自然选择无法解释的现象。（第7-8页）
-- **[适应器](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：进化而来的、用于解决与生存和繁衍有直接或间接关系的特定问题的应对机制。威廉斯（1966）提出三条识别标准：可靠性（正常环境中稳定表现）、有效性（能很好解决适应性问题）、经济性（尽可能小的代价解决问题）。如汗腺调节体温、味觉偏好指导择食、择偶偏好帮助选择配偶。（第16-17页）
-- **[遗传漂变](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：群体中遗传特征发生的随机变化。可通过突变（DNA可遗传的随机变化）、奠基者效应（小部分成员迁移后不能代表原群体基因特征）和遗传瓶颈（灾难后幸存者仅保存原群体基因总体中的某一部分）等方式引起。（第9页）
-- **[间断平衡](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：Gould和Eldredge（1977）提出的进化模式——有时很长时间没有变化，但下一阶段发生突变。即使这种"迅速"变化也是每一代不断积累，通常需经历几百代到几千代。（第9页）
-- **[广义适合度](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：哈密尔顿（1964）提出的理论。经典适合度（个体直接繁殖成功）过于狭隘，应扩展为个体自身繁殖成功率加上个体对遗传亲属繁殖成功率带来的影响（以遗传相关度加权）。开启了"基因之眼看世界"的新纪元。兄弟姐妹遗传相关度为0.50，祖父母与孙辈为0.25，第一代表亲为0.125。（第13-14页）
-- **[印刻](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：习性学奠基人洛伦兹发现的"预先设置"的学习机制。小鸭子对出生后见到的第一个移动物体产生联结，在发育关键期内形成。正常情况下印刻对象是妈妈，但若首见的移动物体是人的腿，小鸭子也会紧紧跟随。洛伦兹由此开创了进化生物学的新分支——习性学。（第12页）
-- **[固定行为模式](https://liangkx.com/explore/evolutionary-psychology/science-movements-leading-to-evolutionary-psychology)**：习性学概念，指动物表现出的刻板行为序列，通常能被特定刺激激发。一旦被激发，动物会完整执行这套固定的行为序列。如雄性鸭子面前呈现塑料仿真雌鸭会激起一系列求偶行为。（第13页）
+- **[自然选择](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：包含变异、遗传和选择三个要素的进化机制。生物体以各种方式发生变异（翅膀长度、骨骼大小、格斗能力等），只有可遗传的变异才能在进化中发挥影响，拥有特定遗传特征的个体能产生更多后代。自然选择是形成适应性的惟一已知原因，但不是引起演变的惟一原因。（第5-7页）
+- **[性选择](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：达尔文提出的第二进化理论，包含两种运作方式。同性竞争：同性别个体之间争夺与异性交配机会的竞争（如两只雄鹿用犄角打架）。异性选择（亦称雌性选择）：某一性别成员一致偏好异性的某些特征，拥有这些特征的个体获得更多配偶。成功解释了孔雀华丽羽毛等自然选择无法解释的现象。（第7-8页）
+- **[适应器](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：进化而来的、用于解决与生存和繁衍有直接或间接关系的特定问题的应对机制。威廉斯（1966）提出三条识别标准：可靠性（正常环境中稳定表现）、有效性（能很好解决适应性问题）、经济性（尽可能小的代价解决问题）。如汗腺调节体温、味觉偏好指导择食、择偶偏好帮助选择配偶。（第16-17页）
+- **[遗传漂变](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：群体中遗传特征发生的随机变化。可通过突变（DNA可遗传的随机变化）、奠基者效应（小部分成员迁移后不能代表原群体基因特征）和遗传瓶颈（灾难后幸存者仅保存原群体基因总体中的某一部分）等方式引起。（第9页）
+- **[间断平衡](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：Gould和Eldredge（1977）提出的进化模式——有时很长时间没有变化，但下一阶段发生突变。即使这种"迅速"变化也是每一代不断积累，通常需经历几百代到几千代。（第9页）
+- **[广义适合度](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：哈密尔顿（1964）提出的理论。经典适合度（个体直接繁殖成功）过于狭隘，应扩展为个体自身繁殖成功率加上个体对遗传亲属繁殖成功率带来的影响（以遗传相关度加权）。开启了"基因之眼看世界"的新纪元。兄弟姐妹遗传相关度为0.50，祖父母与孙辈为0.25，第一代表亲为0.125。（第13-14页）
+- **[印刻](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：习性学奠基人洛伦兹发现的"预先设置"的学习机制。小鸭子对出生后见到的第一个移动物体产生联结，在发育关键期内形成。正常情况下印刻对象是妈妈，但若首见的移动物体是人的腿，小鸭子也会紧紧跟随。洛伦兹由此开创了进化生物学的新分支——习性学。（第12页）
+- **[固定行为模式](https://liangkx.com/explore/evolutionary-psychology/01-science-movements-leading-to-evolutionary-psychology)**：习性学概念，指动物表现出的刻板行为序列，通常能被特定刺激激发。一旦被激发，动物会完整执行这套固定的行为序列。如雄性鸭子面前呈现塑料仿真雌鸭会激起一系列求偶行为。（第13页）
 
 ## 研究证据
 - 尼安德特人骨骼化石（约5万年前）：骨骼上骨折和伤痕集中于头部和胸部左侧前方，男性伤痕远多于女性，暗示攻击者是右利手。这是迄今发现最早的凶杀案受害者的法医证据（Jurmain et al., 2009; Trinkaus & Zimmerman, 1982; Walker, 1995）（第3页）

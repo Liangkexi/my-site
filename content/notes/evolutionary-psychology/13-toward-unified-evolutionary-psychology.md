@@ -21,20 +21,20 @@ book: "进化心理学"
 - "文化"不是独立的因果实体。唤起的文化由普遍心理机制在不同环境下的差异激活产生，传播的文化也必须以进化形成的心理机制为基础。
 
 ## 关键概念
-- **[生态理性](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：由进化形成的认知机制所组成，这些机制拥有特定的设计特征，利用远古环境中反复出现的统计规律（生态结构），让我们更有效地解决适应性问题。在解决人为问题或新问题时，这些机制往往不尽如人意（Tooby & Cosmides, 1998）。
-- **[计算理论](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：以戴维·马尔（Marr, 1982）理论为基础，详细阐明一种信息加工装置被设计来解决什么问题以及为何被设计来解决这个问题。计算理论限制了有效解决方案的搜索空间，但本身不足以明确机制的具体实现方式（Cosmides & Tooby, 1994）。
-- **[频率主义假设](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：人类的某些推理机制被设计来以频率信息作为输入并输出频率信息。当信息以频率形式呈现时，75%以上的被试能正确解决医疗诊断问题（Cosmides & Tooby, 1996）。
-- **[社会流言假说](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：语言进化的原因是它有利于大规模群体成员之间形成牢固的纽带，类似于灵长类动物的梳理毛发行为。语言有助于记录复杂的人际社会关系网络（Dunbar, 1996）。
-- **[社会契约假说](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：语言进化有助于男女双方达成明确的婚姻契约关系，公开陈述婚配约定，向群体传递关系不容破坏的信息。
-- **[说书人假说](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：语言是性选择塑造的器官，用于向潜在配偶展示适合度。能说会道者通过幽默、智慧和故事吸引配偶（Miller, 2000）。
-- **[征服生态与社会竞争假说（EDSC）](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：人类祖先在征服生态难题后，人与人之间的社会竞争成为主要选择压力，推动人脑增大和智力提升。人口密度越高的地区，头盖骨脑容量越大（Alexander, 1989; Bailey & Geary, 2009）。
-- **[致命革新假说](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：人类技术革新带来了新的危险，形成稳定的选择压力促使智力不断演化。智商每增加1分，死亡风险相应降低1%（Gottfredson, 2007）。
-- **[生活史理论](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：每个人的时间和精力有限，必须在生存、发育、择偶和抚育后代等适合度成分之间分配资源。最重要的权衡发生在当前繁殖活动和将来繁殖活动之间。生活在无父亲家庭的女孩倾向于性早熟、短期择偶策略和低投资抚养（Belsky, Steinberg & Draper, 1991; Chisholm, 1996）。
-- **[反应性遗传](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：进化形成的心理机制以个体的遗传特性（如体格、面孔吸引力）作为输入信息，引导个体选择相应的策略方案。攻击倾向不是直接遗传的，而是普遍性评估机制接收到遗传体格信息后产生的结果（Tooby & Cosmides, 1990）。
-- **[基于频率的选择](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：当一种策略的频率增加时，其收益会降低，从而使几种不同的遗传策略在群体内部留存下来。心理变态者的欺骗策略以此机制维持——骗子太多时收益下降，但少量骗子可在合作者群体中留存（Mealey, 1995）。
-- **[唤起的文化](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：因外部环境不同而产生的群体差异现象，由普遍的进化心理机制结合局部环境差异所产生。例如，寄生虫高发区的人们在择偶时更看重外表的吸引力（Gangestad & Buss, 1993; Tooby & Cosmides, 1992）。
-- **[传播的文化](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：各种表征和观念起初存在于至少一个人身上，通过观察和互动传递到其他人的头脑中。接收者必须在头脑中重建相应表征，进化心理机制决定了哪些观念被注意、记忆和传播（Tooby & Cosmides, 1992）。
-- **[炫耀假设](https://liangkx.com/explore/evolutionary-psychology/toward-unified-evolutionary-psychology)**：文化是源于采取不同择偶策略的个体在繁殖活动中的竞争行为。男性尤其喜欢创造和展示艺术、音乐来向女性传达求爱讯号。这解释了文化产品创造的性别差异和年龄分布——大部分作品是男性在青年时代创造的（Miller, 1998）。
+- **[生态理性](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：由进化形成的认知机制所组成，这些机制拥有特定的设计特征，利用远古环境中反复出现的统计规律（生态结构），让我们更有效地解决适应性问题。在解决人为问题或新问题时，这些机制往往不尽如人意（Tooby & Cosmides, 1998）。
+- **[计算理论](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：以戴维·马尔（Marr, 1982）理论为基础，详细阐明一种信息加工装置被设计来解决什么问题以及为何被设计来解决这个问题。计算理论限制了有效解决方案的搜索空间，但本身不足以明确机制的具体实现方式（Cosmides & Tooby, 1994）。
+- **[频率主义假设](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：人类的某些推理机制被设计来以频率信息作为输入并输出频率信息。当信息以频率形式呈现时，75%以上的被试能正确解决医疗诊断问题（Cosmides & Tooby, 1996）。
+- **[社会流言假说](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：语言进化的原因是它有利于大规模群体成员之间形成牢固的纽带，类似于灵长类动物的梳理毛发行为。语言有助于记录复杂的人际社会关系网络（Dunbar, 1996）。
+- **[社会契约假说](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：语言进化有助于男女双方达成明确的婚姻契约关系，公开陈述婚配约定，向群体传递关系不容破坏的信息。
+- **[说书人假说](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：语言是性选择塑造的器官，用于向潜在配偶展示适合度。能说会道者通过幽默、智慧和故事吸引配偶（Miller, 2000）。
+- **[征服生态与社会竞争假说（EDSC）](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：人类祖先在征服生态难题后，人与人之间的社会竞争成为主要选择压力，推动人脑增大和智力提升。人口密度越高的地区，头盖骨脑容量越大（Alexander, 1989; Bailey & Geary, 2009）。
+- **[致命革新假说](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：人类技术革新带来了新的危险，形成稳定的选择压力促使智力不断演化。智商每增加1分，死亡风险相应降低1%（Gottfredson, 2007）。
+- **[生活史理论](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：每个人的时间和精力有限，必须在生存、发育、择偶和抚育后代等适合度成分之间分配资源。最重要的权衡发生在当前繁殖活动和将来繁殖活动之间。生活在无父亲家庭的女孩倾向于性早熟、短期择偶策略和低投资抚养（Belsky, Steinberg & Draper, 1991; Chisholm, 1996）。
+- **[反应性遗传](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：进化形成的心理机制以个体的遗传特性（如体格、面孔吸引力）作为输入信息，引导个体选择相应的策略方案。攻击倾向不是直接遗传的，而是普遍性评估机制接收到遗传体格信息后产生的结果（Tooby & Cosmides, 1990）。
+- **[基于频率的选择](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：当一种策略的频率增加时，其收益会降低，从而使几种不同的遗传策略在群体内部留存下来。心理变态者的欺骗策略以此机制维持——骗子太多时收益下降，但少量骗子可在合作者群体中留存（Mealey, 1995）。
+- **[唤起的文化](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：因外部环境不同而产生的群体差异现象，由普遍的进化心理机制结合局部环境差异所产生。例如，寄生虫高发区的人们在择偶时更看重外表的吸引力（Gangestad & Buss, 1993; Tooby & Cosmides, 1992）。
+- **[传播的文化](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：各种表征和观念起初存在于至少一个人身上，通过观察和互动传递到其他人的头脑中。接收者必须在头脑中重建相应表征，进化心理机制决定了哪些观念被注意、记忆和传播（Tooby & Cosmides, 1992）。
+- **[炫耀假设](https://liangkx.com/explore/evolutionary-psychology/13-toward-unified-evolutionary-psychology)**：文化是源于采取不同择偶策略的个体在繁殖活动中的竞争行为。男性尤其喜欢创造和展示艺术、音乐来向女性传达求爱讯号。这解释了文化产品创造的性别差异和年龄分布——大部分作品是男性在青年时代创造的（Miller, 1998）。
 
 ## 研究证据
 - 8个国家、300年跨度（1700-2001）的736份头条新闻研究：人类注意力始终集中在死亡、谋杀、暴力攻击、偷窃、声誉、英雄事迹、自杀、婚姻问题、抚养子女、遗弃家人、强奸等事件上，这些内容具有超越时间和跨文化的一致性（Davis & McLeod, 2003）。

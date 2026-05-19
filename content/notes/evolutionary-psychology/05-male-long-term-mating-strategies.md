@@ -16,11 +16,11 @@ book: "进化心理学"
 - 男性的长期择偶偏好不仅影响了他们自身的择偶行为（征婚广告回应、婚姻决策、注意力分配、小费和求婚戒指的支出），也影响了女性之间的竞争策略（改善外形、诋毁对手外貌和忠贞）。
 
 ## 关键概念
-- **[繁殖价值与生育力](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)**：繁殖价值指处于一定年龄阶段的人将来可能拥有的后代总数；生育力指实际的繁殖成果。男性进化出的审美标准恰好能够预测女性的繁殖能力。
-- **[腰臀比（WHR）](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)**：男性普遍偏爱低腰臀比的女性。跨文化研究显示欧洲三陪女性平均腰臀比为0.70。天生失明的男性在触摸塑料模特时同样偏爱低腰臀比，说明这一偏好不完全依赖视觉。腰臀比是一条与女性生育力密切相关的身体线索。
-- **[排卵期的隐蔽性](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)**：人类女性的排卵期是隐蔽的，这戏剧性地改变了人类择偶的基本法则。尽管识别排卵期有极大的繁殖收益，但传统认为性选择未在男性身上塑造出相应适应器。不过近期研究提供了十条证据表明男性或许可以觉察女性排卵期。
-- **[亲子关系不确定性](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)**：由于女性体内受孕且排卵期隐蔽，远古男性无法像其他雄性灵长目动物那样通过看守发情期的雌性配偶来确保父亲身份。男性进化出了对婚前贞洁和婚后性忠诚的偏好来解决这一难题。
-- **[同性恋的进化之谜](https://liangkx.com/explore/evolutionary-psychology/male-long-term-mating-strategies)**：男性同性恋现象是一个进化谜团，因为这种性取向通常导致繁殖率急剧下降。三种主要理论：亲属利他理论（正反两方面证据）、女性生育力假说（获得经验证据强烈支持）、联盟形成理论（面临实际困境）。
+- **[繁殖价值与生育力](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)**：繁殖价值指处于一定年龄阶段的人将来可能拥有的后代总数；生育力指实际的繁殖成果。男性进化出的审美标准恰好能够预测女性的繁殖能力。
+- **[腰臀比（WHR）](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)**：男性普遍偏爱低腰臀比的女性。跨文化研究显示欧洲三陪女性平均腰臀比为0.70。天生失明的男性在触摸塑料模特时同样偏爱低腰臀比，说明这一偏好不完全依赖视觉。腰臀比是一条与女性生育力密切相关的身体线索。
+- **[排卵期的隐蔽性](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)**：人类女性的排卵期是隐蔽的，这戏剧性地改变了人类择偶的基本法则。尽管识别排卵期有极大的繁殖收益，但传统认为性选择未在男性身上塑造出相应适应器。不过近期研究提供了十条证据表明男性或许可以觉察女性排卵期。
+- **[亲子关系不确定性](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)**：由于女性体内受孕且排卵期隐蔽，远古男性无法像其他雄性灵长目动物那样通过看守发情期的雌性配偶来确保父亲身份。男性进化出了对婚前贞洁和婚后性忠诚的偏好来解决这一难题。
+- **[同性恋的进化之谜](https://liangkx.com/explore/evolutionary-psychology/05-male-long-term-mating-strategies)**：男性同性恋现象是一个进化谜团，因为这种性取向通常导致繁殖率急剧下降。三种主要理论：亲属利他理论（正反两方面证据）、女性生育力假说（获得经验证据强烈支持）、联盟形成理论（面临实际困境）。
 
 ## 研究证据
 - **年轻与美貌的跨文化偏好**：37种文化中所有男性都偏爱比自己年轻的配偶。跨世代研究（1939-1996）显示，在所有情况下男性对配偶长相的重视程度均高于女性，且这种性别差异超越文化而广泛存在。哈扎地区看重配偶生育能力的男性比女性多五倍以上。

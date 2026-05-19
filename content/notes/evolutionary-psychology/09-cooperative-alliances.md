@@ -18,14 +18,14 @@ book: "进化心理学"
 - 合作同盟面临欺骗和搭便车两大威胁；惩罚感是进化形成的心理机制，用于惩罚逃避责任者
 
 ## 关键概念
-- **[互惠式利他主义](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：两个或多个个体为了相互利益而发生的合作行为；只要将来获得回馈，帮助非亲属的适应器就能进化
-- **[以牙还牙策略](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：先合作，对方合作则继续合作，对方背叛则立即背叛，对方回归合作则宽恕并恢复合作；具有从不先背叛、报复背叛者、宽恕三个特征
-- **[囚徒困境](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：描述合作与背叛的博弈模型，T>R>P>S；在重复博弈中，以牙还牙是计算机循环赛的获胜策略
-- **[欺骗者识别适应器](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：人类专门进化用于发现"获得收益但未付出代价者"的心理机制；在Wason选择任务的社会契约版本中正确率远高于抽象版本
-- **[间接互惠](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：利他者通过帮助他人传递慷慨信息，树立良好声誉，从而从第三方获得收益
-- **[赔本赚吆喝](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：通过昂贵的利他行为展示自身资源和适合度，提升社会地位和择偶机会
-- **[银行家困境](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：最需要贷款的人信贷风险最高；友谊中的类比——困境时刻也是信贷风险最高的时刻
-- **[惩罚感](https://liangkx.com/explore/evolutionary-psychology/cooperative-alliances)**：想去惩罚群体中逃避责任者的情绪体验；大脑背侧纹状体（奖赏中心）在惩罚非合作者时活跃
+- **[互惠式利他主义](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：两个或多个个体为了相互利益而发生的合作行为；只要将来获得回馈，帮助非亲属的适应器就能进化
+- **[以牙还牙策略](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：先合作，对方合作则继续合作，对方背叛则立即背叛，对方回归合作则宽恕并恢复合作；具有从不先背叛、报复背叛者、宽恕三个特征
+- **[囚徒困境](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：描述合作与背叛的博弈模型，T>R>P>S；在重复博弈中，以牙还牙是计算机循环赛的获胜策略
+- **[欺骗者识别适应器](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：人类专门进化用于发现"获得收益但未付出代价者"的心理机制；在Wason选择任务的社会契约版本中正确率远高于抽象版本
+- **[间接互惠](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：利他者通过帮助他人传递慷慨信息，树立良好声誉，从而从第三方获得收益
+- **[赔本赚吆喝](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：通过昂贵的利他行为展示自身资源和适合度，提升社会地位和择偶机会
+- **[银行家困境](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：最需要贷款的人信贷风险最高；友谊中的类比——困境时刻也是信贷风险最高的时刻
+- **[惩罚感](https://liangkx.com/explore/evolutionary-psychology/09-cooperative-alliances)**：想去惩罚群体中逃避责任者的情绪体验；大脑背侧纹状体（奖赏中心）在惩罚非合作者时活跃
 
 ## 研究证据
 - **吸血蝙蝠食物共享**（Wilkinson, 1984）：33%的小蝙蝠找不到食物，蝙蝠把血液反刍给曾送过食物给它们的朋友；相处时间超过60%才可能获得食物馈赠；受惠后更可能回馈帮过自己的蝙蝠

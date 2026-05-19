@@ -16,12 +16,12 @@ book: "进化心理学"
 - 自尊是一种追踪声望、地位和名誉的心理机制，负责追踪他人对我们的尊重和尊敬程度的变化。
 
 ## 关键概念
-- **[支配等级](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：群体内成员获取关键资源机会不均等的层级结构，具有传递性。体型并非决定等级的关键因素，社会技能（赢得朋友和同盟者的合作支持）更为重要。
-- **[支配与威望](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：支配通过武力威胁令他人臣服（如校园恶霸、黑手党）；威望通过知识、技能和慷慨赢得他人的自愿服从和钦佩。赔本赚吆喝行为是建立威望的关键途径。
-- **[社会支配倾向（SDO）](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：个体对群体间不平等和层级统治的认同程度。男性在 SDO 量表上的得分普遍高于女性，且具有跨文化一致性。
-- **[吸引社会性注意的潜力（SAHP）](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：人们相互竞争的目的是为了获得群体中其他人的注意和重视。地位等级差异源于每个人所受到的关注程度不同。
-- **[支配理论](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：人类已进化出领域特殊性的推理策略，专门用于对涉及支配等级的社会规范进行推理，包括对允许、义务和禁止的理解。道义推理在生命早期（3 岁）就已出现。
-- **[服从策略](https://liangkx.com/explore/evolutionary-psychology/status-prestige-and-social-hierarchy)**：包括韬光养晦（故意假装不如对方，降低自尊以避免冲突）和枪打出头鸟（对位高权重者的衰落感到幸灾乐祸）。
+- **[支配等级](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：群体内成员获取关键资源机会不均等的层级结构，具有传递性。体型并非决定等级的关键因素，社会技能（赢得朋友和同盟者的合作支持）更为重要。
+- **[支配与威望](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：支配通过武力威胁令他人臣服（如校园恶霸、黑手党）；威望通过知识、技能和慷慨赢得他人的自愿服从和钦佩。赔本赚吆喝行为是建立威望的关键途径。
+- **[社会支配倾向（SDO）](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：个体对群体间不平等和层级统治的认同程度。男性在 SDO 量表上的得分普遍高于女性，且具有跨文化一致性。
+- **[吸引社会性注意的潜力（SAHP）](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：人们相互竞争的目的是为了获得群体中其他人的注意和重视。地位等级差异源于每个人所受到的关注程度不同。
+- **[支配理论](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：人类已进化出领域特殊性的推理策略，专门用于对涉及支配等级的社会规范进行推理，包括对允许、义务和禁止的理解。道义推理在生命早期（3 岁）就已出现。
+- **[服从策略](https://liangkx.com/explore/evolutionary-psychology/12-status-prestige-and-social-hierarchy)**：包括韬光养晦（故意假装不如对方，降低自尊以避免冲突）和枪打出头鸟（对位高权重者的衰落感到幸灾乐祸）。
 
 ## 研究证据
 - 鳌虾实验：支配型鳌虾的 5-羟色胺能激活特定神经元，服从型则被抑制；服从型可转变为支配型，但支配型即使落败也保持高度攻击性。

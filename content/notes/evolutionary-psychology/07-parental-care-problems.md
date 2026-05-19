@@ -16,13 +16,13 @@ book: "进化心理学"
 - 特里弗斯-维拉德假设：经济状况好的父母倾向于投资儿子，状况差的倾向于投资女儿
 
 ## 关键概念
-- **[父子关系的不确定性假设](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**：体内受精物种中，母亲对母子关系百分百确信，而父亲不能。雄性可能把资源错投到其他雄性的后代身上，因此父系每单位投资的回报低于母系
-- **[损失择偶机会假设](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**：亲代抚育使父母损失择偶机会。雄性的繁殖成功率与性伴侣数量正相关，因此雄性因亲代投资损失的择偶代价通常比雌性更高
-- **[主要照料者假设](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**：女性已进化出专门抚育适应器，包括早年对婴儿产生兴趣、更擅长辨别婴儿表情等
-- **[亲子冲突理论](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**（Trivers, 1974）：父母与子女有50%基因共享也有50%基因差异。每个孩子想从父母处获得的资源，通常超过父母愿意提供的量。冲突贯穿各人生阶段，最早出现在子宫中
-- **[母婴冲突](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**（Haig, 1993, 2004）：胎儿分泌hCG阻止母亲行经以对抗自发流产；胎盘细胞破坏母体动脉平滑肌，升高母体血压以获取更多血液，可能诱发子痫前期
-- **[特里弗斯-维拉德假设](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**（Trivers & Willard, 1973）：一夫多妻制择偶系统中，良好经济状况对男性繁殖成功率影响更大，故富裕父母偏向投资儿子，贫穷父母偏向投资女儿
-- **[女儿的监控者假设](https://liangkx.com/explore/evolutionary-psychology/parental-care-problems)**：父母对女儿的宵禁、着装和性活动监控比对儿子更严格，既保护女儿的长期配偶价值，也维护家族声誉
+- **[父子关系的不确定性假设](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**：体内受精物种中，母亲对母子关系百分百确信，而父亲不能。雄性可能把资源错投到其他雄性的后代身上，因此父系每单位投资的回报低于母系
+- **[损失择偶机会假设](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**：亲代抚育使父母损失择偶机会。雄性的繁殖成功率与性伴侣数量正相关，因此雄性因亲代投资损失的择偶代价通常比雌性更高
+- **[主要照料者假设](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**：女性已进化出专门抚育适应器，包括早年对婴儿产生兴趣、更擅长辨别婴儿表情等
+- **[亲子冲突理论](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**（Trivers, 1974）：父母与子女有50%基因共享也有50%基因差异。每个孩子想从父母处获得的资源，通常超过父母愿意提供的量。冲突贯穿各人生阶段，最早出现在子宫中
+- **[母婴冲突](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**（Haig, 1993, 2004）：胎儿分泌hCG阻止母亲行经以对抗自发流产；胎盘细胞破坏母体动脉平滑肌，升高母体血压以获取更多血液，可能诱发子痫前期
+- **[特里弗斯-维拉德假设](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**（Trivers & Willard, 1973）：一夫多妻制择偶系统中，良好经济状况对男性繁殖成功率影响更大，故富裕父母偏向投资儿子，贫穷父母偏向投资女儿
+- **[女儿的监控者假设](https://liangkx.com/explore/evolutionary-psychology/07-parental-care-problems)**：父母对女儿的宵禁、着装和性活动监控比对儿子更严格，既保护女儿的长期配偶价值，也维护家族声誉
 
 ## 研究证据
 - **基布兹集体抚养实验**：Shepher和Tiger研究了34,040人的三代基布兹居民，发现女性强烈要求孩子与自己同住，最终通过投票推翻了共同抚养的乌托邦计划（Tiger, 1996）

@@ -18,11 +18,11 @@ book: "进化心理学"
 - 杀人适应器理论认为人类进化了特殊的心理机制，在特定情境下（战争、同性竞争、配偶出轨）激活杀人行为
 
 ## 关键概念
-- **[年轻男性综合征](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)**：年轻男性特别喜欢参与危险的攻击活动，暴力死亡率在25岁左右达峰值；与择偶竞争和建立名声密切相关
-- **[校准理论](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)**：愤怒情绪有助于向对方传递信息，使对方更加看重你的需求和感受；体格壮硕的男性和外形漂亮的女性更容易发怒并在社交冲突中获胜
-- **[战争的风险契约](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)**：战争适应器进化的四个必要条件——长期繁殖收益大于代价、相信己方必胜、按贡献和风险分配收益、对个体生死"一无所知"
-- **[杀人适应器理论](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)**：人类进化了专门的心理机制，在特定输入激活并评估代价和收益后产生杀人行为；与防止被杀害的防御机制协同进化
-- **[疏漏假设](https://liangkx.com/explore/evolutionary-psychology/aggression-and-warfare)**：杀人行为是暴力控制他人的意外副产物，危险的暴力行为偶尔出现疏漏而升级为凶杀
+- **[年轻男性综合征](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)**：年轻男性特别喜欢参与危险的攻击活动，暴力死亡率在25岁左右达峰值；与择偶竞争和建立名声密切相关
+- **[校准理论](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)**：愤怒情绪有助于向对方传递信息，使对方更加看重你的需求和感受；体格壮硕的男性和外形漂亮的女性更容易发怒并在社交冲突中获胜
+- **[战争的风险契约](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)**：战争适应器进化的四个必要条件——长期繁殖收益大于代价、相信己方必胜、按贡献和风险分配收益、对个体生死"一无所知"
+- **[杀人适应器理论](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)**：人类进化了专门的心理机制，在特定输入激活并评估代价和收益后产生杀人行为；与防止被杀害的防御机制协同进化
+- **[疏漏假设](https://liangkx.com/explore/evolutionary-psychology/10-aggression-and-warfare)**：杀人行为是暴力控制他人的意外副产物，危险的暴力行为偶尔出现疏漏而升级为凶杀
 
 ## 研究证据
 - **贡贝黑猩猩战争**（Wrangham & Peterson, 1996）：1974年首次观察到8只雄性黑猩猩组成战斗团队入侵邻近领地并杀害同类；黑猩猩和人类是仅有的两个雄性会形成合作同盟杀害同类的物种
