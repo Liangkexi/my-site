@@ -9,7 +9,13 @@ published: true
 
 # 概览
 
-[下载 【欲望的演化.pdf】](/files/欲望的演化.pdf)
+```download
+title: 欲望的演化
+subtitle: The Evolution of Desire
+desc: 进化心理学经典著作
+file: /files/欲望的演化.pdf
+meta: PDF · 中文版 · 10.1MB
+```
 
 
 ## 书籍概览

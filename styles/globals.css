@@ -1094,6 +1094,124 @@ main {
 .prose .callout-quote    { --callout-color: 140, 148, 158; }
 .prose .callout-abstract { --callout-color:  77, 171, 184; }
 
+/* ── Download card (```download fenced block) ──────────────────────────── */
+.prose .download-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1.1rem;
+  align-items: start;
+  margin: 1.75rem 0;
+  padding: 1.25rem 1.35rem;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+.prose .download-card__icon {
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: var(--accent-s);
+  color: var(--accent-hex);
+  flex-shrink: 0;
+}
+.prose .download-card__icon svg {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+.prose .download-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+.prose .download-card__title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--fg);
+  line-height: 1.3;
+}
+.prose .download-card__subtitle {
+  font-size: 0.92rem;
+  color: var(--fg-m);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+.prose .download-card__desc {
+  font-size: 0.92rem;
+  color: var(--fg-m);
+  margin-top: 0.15rem;
+}
+.prose .download-card__meta {
+  font-size: 0.82rem;
+  color: var(--fg-sub);
+  margin-top: 0.5rem;
+}
+.prose .download-card__actions {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.9rem;
+  flex-wrap: wrap;
+}
+.prose .download-card__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.1s ease, box-shadow 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+}
+.prose .download-card__btn:active {
+  transform: translateY(1px);
+}
+.prose .download-card__btn--primary {
+  background: var(--accent-hex);
+  color: #fff;
+  border: 1px solid var(--accent-hex);
+  box-shadow: 0 1px 3px color-mix(in srgb, var(--accent-hex) 35%, transparent);
+}
+.prose .download-card__btn--primary:hover {
+  background: color-mix(in srgb, var(--accent-hex) 88%, #000);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--accent-hex) 45%, transparent);
+}
+.prose .download-card__btn--secondary {
+  background: transparent;
+  color: var(--fg);
+  border: 1px solid var(--border);
+}
+.prose .download-card__btn--secondary:hover {
+  background: color-mix(in srgb, var(--fg) 6%, transparent);
+  border-color: color-mix(in srgb, var(--border) 50%, var(--fg));
+}
+.prose .download-card__btn-icon {
+  display: inline-flex;
+  width: 1em;
+  height: 1em;
+}
+.prose .download-card__btn-icon svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+@media (max-width: 520px) {
+  .prose .download-card {
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
+  .prose .download-card__icon {
+    width: 48px;
+    height: 48px;
+  }
+}
+
 /* ── Post navigation (prev / next) ──────────────────────── */
 .post-nav {
   display: grid;
