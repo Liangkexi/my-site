@@ -37,6 +37,7 @@ export default function AboutPage() {
             { icon: "🛠", title: "Vibe Coding ", desc: "Vibe Coding 一些项目" },
             { icon: "✍️", title: "记录", desc: "想法、复盘、与生活随笔" },
             { icon: "🌏", title: "经历", desc: "户外，游戏，生活工具" },
+            { icon: "🚀", title: "未来", desc: "正在学习&准备中的事" },
           ].map((item) => (
             <Reveal key={item.title}>
               <div
