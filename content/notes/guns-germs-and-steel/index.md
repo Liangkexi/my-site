@@ -16,7 +16,7 @@ book: "枪炮、病菌与钢铁"
 title: 枪炮、病菌与钢铁
 subtitle: Guns Germs and Steel
 desc: 
-file: /files/[枪炮病菌与钢铁.pdf
+file: /files/枪炮病菌与钢铁.pdf
 meta: PDF · 中文版 · 12MB
 ```
 
