@@ -9,7 +9,16 @@ published: true
 book: "枪炮、病菌与钢铁"
 ---
 
+
 ## 书籍概览与导读
+
+```download
+title: 枪炮、病菌与钢铁
+subtitle: Guns Germs and Steel
+desc: 
+file: /files/[枪炮病菌与钢铁.pdf
+meta: PDF · 中文版 · 12MB
+```
 
 **作者**：贾雷德·戴蒙德（Jared Diamond），演化生物学家、生理学家、生物地理学家，美国加州大学洛杉矶分校教授。长期在新几内亚等地从事田野研究，精通鸟类演化与人类学。
 

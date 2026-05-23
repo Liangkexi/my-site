@@ -8,7 +8,17 @@ cover: /images/Notes/nonviolent-communication/Snipaste_2026-05-17_15-33-13.png
 published: true
 ---
 
+
+
 ## 书籍概览与导读
+
+```download
+title: 非暴力沟通
+subtitle: Nonviolent Communication
+desc: 
+file: /files/非暴力沟通.pdf
+meta: PDF · 中文版 · 1.9MB
+```
 
 ### 作者背景
 **马歇尔·卢森堡（Marshall B. Rosenberg）**，美国临床心理学博士，师从卡尔·罗杰斯，国际非暴力沟通中心（CNVC）创始人。他毕生致力于在全球推广非暴力沟通（NVC），调解过以色列-巴勒斯坦、卢旺达、塞拉利昂等地区的冲突。其方法基于甘地的非暴力哲学，被称为"爱的语言"。

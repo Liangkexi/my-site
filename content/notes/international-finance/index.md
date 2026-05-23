@@ -7,7 +7,16 @@ cover: /images/Notes/international-finance/Snipaste_2026-05-17_15-35-31.png
 published: true
 ---
 
+
 ## 书籍概览与导读
+
+```download
+title: 国际金融学
+subtitle: International Finance
+desc: 
+file: /files/国际金融学.pdf
+meta: PDF · 中文版 · 39.3MB
+```
 
 ### 作者背景
 - **主编**：孙睦优，华中师范大学汉口分校教授

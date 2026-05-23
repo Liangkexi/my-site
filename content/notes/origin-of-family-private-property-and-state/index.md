@@ -10,6 +10,15 @@ published: true
 
 # 家庭、私有制和国家的起源
 
+```download
+title: 家庭、私有制和国家的起源
+subtitle: Origin of Family Private Property and State
+desc: 
+file: /files/家庭、私有制和国家的起源.pdf
+meta: PDF · 中文版 · 9.1MB
+```
+
+
 ## 作者
 
 弗里德里希·恩格斯（Friedrich Engels, 1820–1895），马克思主义创始人之一。本书副标题为"就路易斯·亨·摩尔根的研究成果而作"，写于 1884 年。
