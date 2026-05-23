@@ -12,14 +12,6 @@ published: true
 
 # 进化心理学
 
-```download
-title: 进化心理学
-subtitle: Evolutionary Psychology
-desc: 
-file: /files/进化心理学.pdf
-meta: PDF · 中文版 · 54.7MB
-```
-
 
 ## 书籍概览与导读
 
