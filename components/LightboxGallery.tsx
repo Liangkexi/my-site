@@ -2,6 +2,7 @@
 import { useState } from "react";
 import YALightbox from "yet-another-react-lightbox";
 import Thumbnails from "yet-another-react-lightbox/plugins/thumbnails";
+import Zoom from "yet-another-react-lightbox/plugins/zoom";
 import "yet-another-react-lightbox/styles.css";
 import "yet-another-react-lightbox/plugins/thumbnails.css";
 
@@ -62,7 +63,27 @@ export default function LightboxGallery({ photos, title }: LightboxGalleryProps)
         close={() => setOpen(false)}
         slides={slides}
         index={index}
-        plugins={[Thumbnails]}
+        plugins={[Thumbnails, Zoom]}
+        zoom={{
+          maxZoomPixelRatio: 5,
+          zoomInMultiplier: 2,
+          doubleTapDelay: 300,
+          doubleClickDelay: 300,
+          doubleClickMaxStops: 2,
+          keyboardMoveDistance: 50,
+          wheelZoomDistanceFactor: 100,
+          pinchZoomDistanceFactor: 100,
+          scrollToZoom: true,
+        }}
+        thumbnails={{
+          width: 60,
+          height: 40,
+          padding: 2,
+          border: 1,
+          borderRadius: 4,
+          gap: 8,
+          imageFit: "cover",
+        }}
         styles={{
           container: { backgroundColor: "rgba(0,0,0,0.92)" },
         }}
