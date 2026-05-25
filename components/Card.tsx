@@ -24,7 +24,7 @@ export default function Card({ item }: { item: ContentItem }) {
     <Link href={href} style={{ textDecoration: "none" }}>
       <div
         style={{
-          background: "var(--card-bg)",
+          background: "var(--card-bg-soft)",
           border: "1px solid var(--border)",
           borderRadius: 10,
           overflow: "hidden",
