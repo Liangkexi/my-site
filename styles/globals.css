@@ -20,6 +20,7 @@
   --accent-l-hex: #818CF8;
   --accent-s:   #EEF2FF;
   --card-bg:    #FFFFFF;
+  --card-bg-soft: #f7f7f7;
   --thumb-bg:   #F0F0F8;
   --tag-bg:     #EEF2FF;
   --tag-fg:     #4338CA;
@@ -37,6 +38,7 @@
   --accent-hex: #818CF8;
   --accent-l-hex: #A5B4FC;
   --accent-s:   #1A1A2E;
+  --card-bg-soft: #181826;
   --card-bg:    #13131F;
   --thumb-bg:   #1A1A2E;
   --tag-bg:     #1E1E35;
