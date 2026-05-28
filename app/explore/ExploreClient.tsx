@@ -37,7 +37,7 @@ export default function ExploreClient({ items }: { items: ContentItem[] }) {
       : null;
 
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: "0 24px" }}>
+    <div style={{ maxWidth: 1180, margin: "0 auto", padding: "0 24px" }}>
 
       {/* Explore banner */}
       <div className="blog-banner">
@@ -48,7 +48,6 @@ export default function ExploreClient({ items }: { items: ContentItem[] }) {
           priority
           style={{ objectFit: "cover", objectPosition: "center 40%" }}
         />
-        <div className="blog-banner__fade" />
       </div>
 
       <section style={{ padding: "32px 0 32px" }}>

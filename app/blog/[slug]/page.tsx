@@ -23,7 +23,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const next = idx < all.length - 1 ? all[idx + 1] : null; // older → 下一篇
 
   return (
-    <div style={{ maxWidth: 720, margin: "0 auto", padding: "0 24px" }}>
+    <div style={{ maxWidth: 820, margin: "0 auto", padding: "0 24px" }}>
       <div style={{ padding: "48px 0 0" }}>
         <Link
           href="/blog"

@@ -21,7 +21,7 @@ export default function BlogClient({ posts }: { posts: ContentItem[] }) {
   });
 
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: "0 24px" }}>
+    <div style={{ maxWidth: 1180, margin: "0 auto", padding: "0 24px" }}>
 
       {/* Blog banner */}
       <div className="blog-banner">
@@ -32,8 +32,6 @@ export default function BlogClient({ posts }: { posts: ContentItem[] }) {
           priority
           style={{ objectFit: "cover", objectPosition: "center 30%" }}
         />
-        {/* Bottom fade into page background */}
-        <div className="blog-banner__fade" />
       </div>
 
       <section style={{ padding: "32px 0 32px" }}>
@@ -72,6 +70,16 @@ export default function BlogClient({ posts }: { posts: ContentItem[] }) {
         <PostList posts={visible} />
       </Reveal>
       {hasMore && <div ref={sentinelRef} style={{ height: 1 }} />}
+      <div
+        style={{
+          textAlign: "center",
+          fontSize: 13.2,
+          color: "var(--fg-sub)",
+          padding: "20px 0 40px",
+        }}
+      >
+        共 {filtered.length} 篇文章
+      </div>
     </div>
   );
 }

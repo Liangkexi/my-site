@@ -7,23 +7,41 @@
 :root {
   --font-inter: 'Inter', sans-serif;
 
-  /* Light mode */
-  --bg:         #fdfdfd;
-  --bg-s:       #F8F8FC;
-  --bg-s2:      #F0F0F8;
-  --fg:         #0F0F1A;
-  --fg-m:       #52526B;
-  --fg-sub:     #9494AA;
-  --border:     #E8E8F0;
-  --sep:        #F0F0F8;
-  --accent-hex: #6366F1;
-  --accent-l-hex: #818CF8;
-  --accent-s:   #EEF2FF;
-  --card-bg:    #FFFFFF;
-  --card-bg-soft: #f7f7f7;
-  --thumb-bg:   #F0F0F8;
-  --tag-bg:     #EEF2FF;
-  --tag-fg:     #4338CA;
+  /* ─── Light mode — new design tokens ─── */
+  --bg-primary:     #F6F4F7;
+  --bg-secondary:   #FBFAFC;
+
+  --text-primary:   #111827;
+  --text-secondary: #5B6172;
+  --text-tertiary:  #8E95A9;
+
+  --accent-primary: #6E6AF8;
+  --accent-hover:   #5B57F5;
+  --accent-soft:    rgba(110, 106, 248, 0.08);
+
+  --border-light:   rgba(17, 24, 39, 0.06);
+
+  --shadow-soft:
+    0 1px 2px rgba(15, 23, 42, 0.04),
+    0 8px 24px rgba(15, 23, 42, 0.06);
+
+  /* ─── Legacy aliases (kept so existing CSS keeps working) ─── */
+  --bg:           var(--bg-primary);
+  --bg-s:         var(--bg-secondary);
+  --bg-s2:        #F0F0F8;
+  --fg:           var(--text-primary);
+  --fg-m:         var(--text-secondary);
+  --fg-sub:       var(--text-tertiary);
+  --border:       var(--border-light);
+  --sep:          var(--border-light);
+  --accent-hex:   var(--accent-primary);
+  --accent-l-hex: var(--accent-hover);
+  --accent-s:     var(--accent-soft);
+  --card-bg:      rgba(255, 255, 255, 0.72);
+  --card-bg-soft: #FBFAFC;
+  --thumb-bg:     #F0F0F8;
+  --tag-bg:       #EEF2FF;
+  --tag-fg:       var(--accent-primary);
 }
 
 .dark {
@@ -895,12 +913,11 @@ main {
 /* ── Blog Banner ─────────────────────────────────────── */
 .blog-banner {
   position: relative;
-  width: calc(100% + 48px);   /* break out of the 24px padding on each side */
-  margin-left: -24px;
+  width: 100%;
   height: 320px;
-  border-radius: 0;
+  border-radius: 18px;
   overflow: hidden;
-  margin-top: -82px;           /* pull up under navbar (same as hero) */
+  margin-top: 16px;
 }
 
 .blog-banner__fade {
@@ -915,9 +932,10 @@ main {
 
 @media (max-width: 640px) {
   .blog-banner {
-    width: calc(100% + 48px);
+    width: 100%;
     height: 220px;
-    margin-top: -82px;
+    border-radius: 14px;
+    margin-top: 8px;
   }
 }
 

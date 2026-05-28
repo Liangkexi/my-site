@@ -14,7 +14,7 @@ export default function HomePage() {
       {/* Full-width Hero — outside the content column */}
       <HeroSection />
 
-      <div style={{ maxWidth: 900, margin: "0 auto", padding: "0 24px" }}>
+      <div style={{ maxWidth: 1180, margin: "0 auto", padding: "0 24px" }}>
         <div style={{ marginTop: 64 }}>
           <HomeClient highlights={highlights} latestPosts={latestPosts} />
         </div>
