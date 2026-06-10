@@ -2,8 +2,8 @@
 title: "系统集成项目管理工程师教程（第3版）"
 slug: "system-integration-project-management"
 date: "2026-06-08"
-tags: [软考, 项目管理, 系统集成]
-summary: "全国计算机技术与软件专业技术资格（水平）考试指定用书，系统集成项目管理工程师考试备考笔记"
+tags: [软考, 系统集成]
+summary: ""
 cover: "/images/Exam/system-integration-project-management/cover.jpg"
 published: true
 exam: "软考-系统集成项目管理工程师"
