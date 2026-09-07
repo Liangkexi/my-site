@@ -1,5 +1,5 @@
 ---
-title: "系统集成项目管理工程师教程（第3版）"
+title: "系统集成项目管理工程师教程（3）"
 slug: "system-integration-project-management"
 date: "2026-06-08"
 tags: [软考, 系统集成]
