@@ -13,10 +13,10 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { createRequire } from "module";
 import { applyMarkdownConfig, preprocessMarkdown } from "../lib/markdown-config.mjs";
+import { marked, Renderer } from "marked";
 
 const require = createRequire(import.meta.url);
 const matter  = require("gray-matter");
-const { marked, Renderer } = require("marked");
 
 const __dirname  = path.dirname(fileURLToPath(import.meta.url));
 const contentDir = path.join(__dirname, "../content");
