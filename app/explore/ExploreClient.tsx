@@ -8,9 +8,9 @@ import useProgressiveList from "@/components/useProgressiveList";
 
 const tabs: { label: string; value: ContentType | "all" }[] = [
   { label: "All", value: "all" },
-  { label: "Projects", value: "projects" },
-  { label: "Notes", value: "notes" },
   { label: "Life", value: "life" },
+  { label: "Notes", value: "notes" },
+  { label: "Projects", value: "projects" },
 ];
 
 export default function ExploreClient({ items }: { items: ContentItem[] }) {
@@ -29,7 +29,7 @@ export default function ExploreClient({ items }: { items: ContentItem[] }) {
 
   const sections =
     active === "all"
-      ? (["projects", "notes", "life"] as ContentType[]).map((type) => ({
+      ? (["life", "notes", "projects"] as ContentType[]).map((type) => ({
           type,
           label: type.charAt(0).toUpperCase() + type.slice(1),
           items: items.filter((i) => i.type === type),
